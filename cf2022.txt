@@ -1,0 +1,1593 @@
+2022-08-27 Northwestern             31  Nebraska                 28           Dublin IE
+2022-08-27 @FL Atlantic              43  Charlotte                13           
+2022-08-27 @Florida St               47  Duquesne                  7           
+2022-08-27 @North Carolina           56  Florida A&M              24           
+2022-08-27 @Illinois                 38  Wyoming                   6           
+2022-08-27 @WKU                      38  Austin Peay              27           
+2022-08-27 Nevada                   23 @New Mexico St            12           
+2022-08-27 North Texas              31 @UTEP                     13           
+2022-08-27 @Utah St                  31  Connecticut              20           
+2022-08-27 Vanderbilt               63 @Hawaii                   10           
+2022-08-27 Alabama St               23  Howard                   13           Atlanta GA
+2022-08-27 @Mercer                   63  Morehead St              13           
+2022-08-27 Jacksonville St          42  SF Austin                17
+2022-08-27 @UNLV                     52  Idaho St                 21           
+2022-09-01 @Akron                    30  St Francis PA            23        
+2022-09-01 @Florida Intl             38  Bryant                   37       
+2022-09-01 @Pittsburgh               38  West Virginia            31           
+2022-09-01 Penn St                  35 @Purdue                   31           
+2022-09-01 @UCF                      56  S Carolina St            10           
+2022-09-01 @Wake Forest              44  VMI                      10           
+2022-09-01 @Minnesota                38  New Mexico St             0           
+2022-09-01 @Oklahoma St              58  C Michigan               44           
+2022-09-01 @UAB                      59  Alabama A&M               0           
+2022-09-01 @Arizona St               40  Northern Arizona          3           
+2022-09-01 @Fresno St                35  Cal Poly                  7           
+2022-09-01 @Tennessee                59  Ball St                  10           
+2022-09-01 @Toledo                   37  LIU Post                  0           
+2022-09-01 @Missouri                 52  Louisiana Tech           24           
+2022-09-01 @N Illinois               34  E Illinois               27           
+2022-09-01 @San Jose St              21  Portland St              17           
+2022-09-01 @ETSU                     44  Mars Hill                 7           
+2022-09-01 @Indiana St               17  North Alabama            14 O1        
+2022-09-01 @New Hampshire            31  Monmouth NJ              21           
+2022-09-01 Rhode Island             35 @Stony Brook              14           
+2022-09-01 @Abilene Chr              28  Lamar                    14           
+2022-09-01 Missouri St              27 @Cent Arkansas            14           
+2022-09-01 @Samford                  27  Kennesaw                 17           
+2022-09-01 @Tarleton St              29  MS Valley St             13           
+2022-09-01 @TN Martin                42  W Illinois               25           
+2022-09-01 @Furman                   52  North Greenville          0           
+2022-09-01 @Southern Utah            44  St Thomas MN             13           
+2022-09-01 @Weber St                 41  W Oregon                  5           
+2022-09-01 @Campbell                 29  Citadel                  10           
+2022-09-01 Fordham                  48 @Wagner                   31           
+2022-09-01 @Gardner Webb             56  Limestone                21           
+2022-09-01 @TX A&M Commerce          52  Lincoln CA                7           
+2022-09-02 William & Mary           41 @Charlotte                24           
+2022-09-02 @Duke                     30  Temple                    0           
+2022-09-02 @E Michigan               42  E Kentucky               34           
+2022-09-02 @Indiana                  23  Illinois                 20           
+2022-09-02 @Michigan St              35  W Michigan               13           
+2022-09-02 @Old Dominion             20  Virginia Tech            17           
+2022-09-02 TCU                      38 @Colorado                 13           
+2022-09-02 @Kansas                   56  Tennessee Tech           10           
+2022-09-02 Holy Cross               31 @Merrimack                17           
+2022-09-02 @Villanova                45  Lehigh                   17           
+2022-09-03 North Carolina           63 @Appalachian St           61           
+2022-09-03 Rutgers                  22 @Boston College           21           
+2022-09-03 @Coastal Car              38  Army                     28           
+2022-09-03 @Connecticut              28  Central Conn              3           
+2022-09-03 NC State                 21 @East Carolina            20           
+2022-09-03 @Florida                  29  Utah                     26           
+2022-09-03 @Georgia                  49  Oregon                    3           Atlanta GA
+2022-09-03 @Ga Southern              59  Morgan St                 7           
+2022-09-03 @James Madison            44  MTSU                      7           
+2022-09-03 @Kentucky                 37  Miami OH                 13           
+2022-09-03 @Marshall                 55  Norfolk St                3           
+2022-09-03 @Maryland                 31  Buffalo                  10           
+2022-09-03 @Miami FL                 70  Bethune-Cookman          13           
+2022-09-03 @Michigan                 51  Colorado St               7           
+2022-09-03 Delaware                 14 @Navy                      7           
+2022-09-03 @Ohio                     41  FL Atlantic              38           
+2022-09-03 @Ohio St                  21  Notre Dame               10           
+2022-09-03 @South Carolina           35  Georgia St               14           
+2022-09-03 BYU                      50 @South Florida            21           
+2022-09-03 @Syracuse                 31  Louisville                7           
+2022-09-03 @Virginia                 34  Richmond                 17           
+2022-09-03 @Alabama                  55  Utah St                   0           
+2022-09-03 @Arkansas                 31  Cincinnati               24           
+2022-09-03 @Arkansas St              58  Grambling                 3           
+2022-09-03 @Auburn                   42  Mercer                   16           
+2022-09-03 @Baylor                   69  SUNY Albany              10           
+2022-09-03 @Iowa                      7  S Dakota St               3           
+2022-09-03 @Iowa St                  42  SE Missouri St           10           
+2022-09-03 @Kansas St                34  South Dakota              0           
+2022-09-03 @Louisiana                24  SE Louisiana              7           
+2022-09-03 @Mississippi St           49  Memphis                  23           
+2022-09-03 @Nebraska                 38  North Dakota             17           
+2022-09-03  SMU                      48 @North Texas              10           
+2022-09-03 @Oklahoma                 45  UTEP                     13           
+2022-09-03 @Mississippi              28  Troy                     10           
+2022-09-03 @South Alabama            48  Nicholls St               7           
+2022-09-03  Liberty                  29 @Southern Miss            27 O4        
+2022-09-03 @Texas                    52  ULM                      10           
+2022-09-03 @Texas A&M                31  Sam Houston St            0           
+2022-09-03 @Texas Tech               63  Murray St                10           
+2022-09-03 @Tulane                   42  Massachusetts            10           
+2022-09-03  Houston                  37 @UT San Antonio           35 O3        
+2022-09-03 @Vanderbilt               42  Elon                     31           
+2022-09-03 @Wisconsin                38  Illinois St               0           
+2022-09-03 @Air Force                48  Northern Iowa            17           
+2022-09-03 @New Mexico               41  Maine                     0           
+2022-09-03 @Wyoming                  40  Tulsa                    37 O2        
+2022-09-03 @California               34  UC Davis                 13           
+2022-09-03 @Nevada                   38  Texas St                 14           
+2022-09-03 @Oregon St                34  Boise St                 17           
+2022-09-03  Arizona                  38 @San Diego St             20           
+2022-09-03 @Stanford                 41  Colgate                  10           
+2022-09-03 @UCLA                     45  Bowling Green            17           
+2022-09-03 @USC                      66  Rice                     14           
+2022-09-03 @Washington               45  Kent                     20           
+2022-09-03 @Washington St            24  Idaho                    17           
+2022-09-03  WKU                      49 @Hawaii                   17           
+2022-09-03  Towson                   14 @Bucknell                 13 O1        
+2022-09-03 @Butler                   31  St Thomas FL             26           
+2022-09-03  W Carolina               52 @Charleston So            38           
+2022-09-03 @Delaware St              34  Lincoln PA                0           
+2022-09-03 @Hampton                  31  Howard                   28           
+2022-09-03  Georgetown               43 @Marist                   12           
+2022-09-03  NC Central               28  NC A&T                   13           Charlotte NC
+2022-09-03  Dayton                   22 @Robert Morris            20           
+2022-09-03 @Lafayette                 6  Sacred Heart              0           
+2022-09-03 @Alabama St               21  Miles                    13           
+2022-09-03  SF Austin                31 @Alcorn St                27           
+2022-09-03 @Austin Peay              63  Presbyterian              0           
+2022-09-03 @N Dakota St              56  Drake                    14           
+2022-09-03 @Prairie View             40  TX Southern              23           
+2022-09-03 @Southern Univ            86  FL Memorial               0           
+2022-09-03 @Incarnate Word           64  S Illinois               29           
+2022-09-03 @Valparaiso               20  IN Wesleyan              17           
+2022-09-03 @Jacksonville St          35  Davidson                 17           
+2022-09-03 @Montana                  47  Northwestern LA           0           
+2022-09-03 @Montana St               40  McNeese St               17           
+2022-09-03  Houston Chr              46 @N Colorado               34           
+2022-09-03 @Youngstown St            31  Duquesne                 14           
+2022-09-03 @E Washington             36  Tennessee St             29           
+2022-09-03 @CS Sacramento            56  Utah Tech                33           
+2022-09-03 @Chattanooga              31  Wofford                   0           
+2022-09-03 @Stetson                  24  Concordia MI             14           
+2022-09-03 @Ark Pine Bluff           48  Lane                     42           
+2022-09-03 @San Diego                58  La Verne                  0           
+2022-09-03  Stonehill                33 @Bloomsburg               30 O2        
+2022-09-04  Florida St               24 @LSU                      23           New Orleans LA
+2022-09-04  Jackson St               59  Florida A&M               3           Miami Gardens FL
+2022-09-05  Clemson                  41  Georgia Tech             10           Atlanta, GA
+2022-09-08 @Missouri St              35  TN Martin                30           
+2022-09-09  Louisville               20 @UCF                      14           
+2022-09-09  Boise St                 31 @New Mexico               14           
+2022-09-09 @Merrimack                45  Assumption               17           
+2022-09-10 @Texas St                 41  Florida Intl             12           
+2022-09-10  UT San Antonio           41 @Army                     38 O1        
+2022-09-10  W Michigan               37 @Ball St                  30           
+2022-09-10  E Kentucky               59 @Bowling Green            57 O7        
+2022-09-10  Holy Cross               37 @Buffalo                  31           
+2022-09-10  South Alabama            38 @C Michigan               24           
+2022-09-10  Maryland                 56 @Charlotte                21           
+2022-09-10 @Cincinnati               63  Kennesaw                 10           
+2022-09-10 @Clemson                  35  Furman                   12           
+2022-09-10 @Coastal Car              31  Gardner Webb             27           
+2022-09-10  Syracuse                 48 @Connecticut              14           
+2022-09-10 @East Carolina            39  Old Dominion             21           
+2022-09-10  Kentucky                 26 @Florida                  16           
+2022-09-10 @FL Atlantic              42  SE Louisiana              9           
+2022-09-10 @Georgia                  33  Samford                   0           
+2022-09-10  North Carolina           35 @Georgia St               28           
+2022-09-10 @Georgia Tech             35  W Carolina               17           
+2022-09-10 @Indiana                  35  Idaho                    22           
+2022-09-10 @James Madison            63  Norfolk St                7           
+2022-09-10 @Liberty                  21  UAB                      14           
+2022-09-10 @Miami FL                 30  Southern Miss             7           
+2022-09-10 @Miami OH                 31  Robert Morris            14           
+2022-09-10 @Michigan                 56  Hawaii                   10           
+2022-09-10 @Michigan St              52  Akron                     0           
+2022-09-10  Memphis                  37 @Navy                     13           
+2022-09-10 @NC State                 55  Charleston So             3           
+2022-09-10  Marshall                 26 @Notre Dame               21           
+2022-09-10 @Ohio St                  45  Arkansas St              12           
+2022-09-10 @Penn St                  46  Ohio                     10           
+2022-09-10  Tennessee                34 @Pittsburgh               27 O1        
+2022-09-10 @Purdue                   56  Indiana St                0           
+2022-09-10 @Rutgers                  66  Wagner                    7           
+2022-09-10 @South Florida            42  Howard                   20           
+2022-09-10 @Temple                   30  Lafayette                14           
+2022-09-10 @Toledo                   55  Massachusetts            10           
+2022-09-10 @Virginia Tech            27  Boston College           10           
+2022-09-10  Kansas                   55 @West Virginia            42 O1        
+2022-09-10 @Arkansas                 44  South Carolina           30           
+2022-09-10 @Auburn                   24  San Jose St              16           
+2022-09-10 @Illinois                 24  Virginia                  3           
+2022-09-10  Iowa St                  10 @Iowa                      7           
+2022-09-10 @Kansas St                40  Missouri                 12           
+2022-09-10 @LSU                      65  Southern Univ            17           
+2022-09-10 @Louisiana                49  E Michigan               21           
+2022-09-10 @Louisiana Tech           52  SF Austin                17           
+2022-09-10 @ULM                      35  Nicholls St               7           
+2022-09-10 @Minnesota                62  W Illinois               10           
+2022-09-10  Ga Southern              45 @Nebraska                 42           
+2022-09-10 @North Texas              59  TX Southern              27           
+2022-09-10  Duke                     31 @Northwestern             23           
+2022-09-10 @Oklahoma                 33  Kent                      3           
+2022-09-10 @Oklahoma St              34  Arizona St               17           
+2022-09-10 @Mississippi              59  Cent Arkansas             3           
+2022-09-10 @Rice                     52  McNeese St               10           
+2022-09-10 @SMU                      45  Lamar                    16           
+2022-09-10 @TCU                      59  Tarleton St              17           
+2022-09-10  Alabama                  20 @Texas                    19           
+2022-09-10  Appalachian St           17 @Texas A&M                14           
+2022-09-10 @Texas Tech               33  Houston                  30 O2        
+2022-09-10 @Troy                     38  Alabama A&M              17           
+2022-09-10 @Tulane                   52  Alcorn St                 0           
+2022-09-10 @Tulsa                    38  N Illinois               35           
+2022-09-10  Wake Forest              45 @Vanderbilt               25           
+2022-09-10  Washington St            17 @Wisconsin                14           
+2022-09-10 @Air Force                41  Colorado                 10           
+2022-09-10 @BYU                      26  Baylor                   20 O2        
+2022-09-10  MTSU                     34 @Colorado St              19           
+2022-09-10 @UTEP                     20  New Mexico St            13           
+2022-09-10 @Utah                     73  Southern Utah             7           
+2022-09-10  Weber St                 35 @Utah St                   7           
+2022-09-10 @Wyoming                  33  N Colorado               10           
+2022-09-10  Mississippi St           39 @Arizona                  17           
+2022-09-10 @California               20  UNLV                     14           
+2022-09-10  Oregon St                35 @Fresno St                32           
+2022-09-10  Incarnate Word           55 @Nevada                   41           
+2022-09-10 @Oregon                   70  E Washington             14           
+2022-09-10 @San Diego St             38  Idaho St                  7           
+2022-09-10  USC                      41 @Stanford                 28           
+2022-09-10 @UCLA                     45  Alabama St                7           
+2022-09-10 @Washington               52  Portland St               6           
+2022-09-10  New Hampshire            28 @SUNY Albany              23           
+2022-09-10  S Carolina St            33 @Bethune-Cookman           9           
+2022-09-10  Rhode Island             35 @Bryant                   21           
+2022-09-10 @Butler                   45  Taylor IN                10           
+2022-09-10  Sacred Heart             14 @Central Conn             10           
+2022-09-10 @Citadel                  20  ETSU                     17           
+2022-09-10 @Delaware                 35  Delaware St               9           
+2022-09-10  Lehigh                   21 @Georgetown               19           
+2022-09-10 @Hampton                  42  Tuskegee                 10           
+2022-09-10  Villanova                38 @LIU Post                 21           
+2022-09-10  Colgate                  21 @Maine                    18           
+2022-09-10 @NC Central               41  W Salem St                0           
+2022-09-10 @Richmond                 31  St Francis PA            21           
+2022-09-10 @Towson                   29  Morgan St                21           
+2022-09-10 @VMI                      24  Bucknell                 14           
+2022-09-10 @William & Mary           37  Campbell                 21           
+2022-09-10  Elon                     26 @Wofford                   0           
+2022-09-10 @Abilene Chr              21  Prairie View             13           
+2022-09-10 @Austin Peay              41  MS Valley St              0           
+2022-09-10  Chattanooga              38 @E Illinois               20           
+2022-09-10 @Illinois St              28  Valparaiso               21           
+2022-09-10  Jackson St               16  Tennessee St              3           Memphis TN
+2022-09-10  Fordham                  52 @Monmouth NJ              49           
+2022-09-10  Jacksonville St          34 @Murray St                 3           
+2022-09-10 @North Dakota             29  Northern Iowa            27           
+2022-09-10 @N Dakota St              43  NC A&T                    3           
+2022-09-10  Grambling                47  Northwestern LA          21           Shreveport LA
+2022-09-10 @S Dakota St              24  UC Davis                 22           
+2022-09-10  SE Missouri St           34 @S Illinois               31           
+2022-09-10 @Tennessee Tech           26  TX A&M Commerce          25           
+2022-09-10 @Utah Tech                56  Chadron St               10           
+2022-09-10 @Montana                  24  South Dakota              7           
+2022-09-10 @Montana St               63  Morehead St              13           
+2022-09-10 @St Thomas MN             32  Michigan Tech             6           
+2022-09-10 @Youngstown St            49  Dayton                   16           
+2022-09-10 @Cal Poly                 28  San Diego                27           
+2022-09-10 @Stetson                  45  Louisiana Chr            14           
+2022-09-10 @Ark Pine Bluff           76  North American            3           
+2022-09-10 @Davidson                 37  Barton                   17           
+2022-09-10  Lindenwood               21 @Houston Chr              20           
+2022-09-10 @North Alabama            49  UVA-Wise                 17           
+2022-09-10  Northern Arizona         10 @Sam Houston St            3           
+2022-09-10 @Florida A&M              23  Albany GA                13           
+2022-09-10  Missouri S&T             17 @Drake                    14 O1        
+2022-09-10 @Duquesne                 34  Thomas More              14           
+2022-09-10 @Presbyterian             21  VA-Lynchburg             13           
+2022-09-10 @Stonehill                76  Post                      0           
+2022-09-16  Florida St               35 @Louisville               31           
+2022-09-16 @Wyoming                  17  Air Force                14           
+2022-09-16 @Harvard                  28  Merrimack                21 O1        
+2022-09-17 @Appalachian St           32  Troy                     28           
+2022-09-17 @Army                     49  Villanova                10           
+2022-09-17 @Ball St                  31  Murray St                 0           
+2022-09-17 @Boston College           38  Maine                    17           
+2022-09-17 @Bowling Green            34  Marshall                 31 O1        
+2022-09-17 @C Michigan               41  Bucknell                  0           
+2022-09-17 @Cincinnati               38  Miami OH                 17           Cincinnati, OH
+2022-09-17 @Clemson                  48  Louisiana Tech           20           
+2022-09-17 @Coastal Car              38  Buffalo                  26           
+2022-09-17 @Duke                     49  NC A&T                   20           
+2022-09-17 @East Carolina            49  Campbell                 10           
+2022-09-17 @Florida                  31  South Florida            28           
+2022-09-17  UCF                      40 @FL Atlantic              14           
+2022-09-17  Charlotte                42 @Georgia St               41           
+2022-09-17  Mississippi              42 @Georgia Tech              0           
+2022-09-17 @Indiana                  33  WKU                      30 O1        
+2022-09-17 @Kent                     63  LIU Post                 10           
+2022-09-17 @Kentucky                 31  Youngstown St             0           
+2022-09-17 @Maryland                 34  SMU                      27           
+2022-09-17 @Massachusetts            20  Stony Brook               3           
+2022-09-17 @Michigan                 59  Connecticut               0           
+2022-09-17 @NC State                 27  Texas Tech               14           
+2022-09-17 @Notre Dame               24  California               17           
+2022-09-17 @Ohio St                  77  Toledo                   21           
+2022-09-17  Georgia                  48 @South Carolina            7           
+2022-09-17 @Syracuse                 32  Purdue                   29           
+2022-09-17  Rutgers                  16 @Temple                   14           
+2022-09-17 @Tennessee                63  Akron                     6           
+2022-09-17 @Virginia                 16  Old Dominion             14           
+2022-09-17 @Virginia Tech            27  Wofford                   7           
+2022-09-17 @Wake Forest              37  Liberty                  36           
+2022-09-17 @West Virginia            65  Towson                    7           
+2022-09-17  Pittsburgh               34 @W Michigan               13           
+2022-09-17 @Alabama                  63  ULM                       7           
+2022-09-17 @Arkansas                 38  Missouri St              27           
+2022-09-17  Penn St                  41 @Auburn                   12           
+2022-09-17 @Baylor                   42  Texas St                  7           
+2022-09-17  Kansas                   48 @Houston                  30           
+2022-09-17 @Iowa                     27  Nevada                    0           
+2022-09-17 @Iowa St                  43  Ohio                     10           
+2022-09-17  Tulane                   17 @Kansas St                10           
+2022-09-17 @LSU                      31  Mississippi St           16           
+2022-09-17 @Memphis                  44  Arkansas St              32           
+2022-09-17 @MTSU                     49  Tennessee St              6           
+2022-09-17 @Minnesota                49  Colorado                  7           
+2022-09-17 @Missouri                 34  Abilene Chr              17           
+2022-09-17  Oklahoma                 49 @Nebraska                 14           
+2022-09-17  Vanderbilt               38 @N Illinois               28           
+2022-09-17  S Illinois               31 @Northwestern             24           
+2022-09-17 @Oklahoma St              63  Ark Pine Bluff            7           
+2022-09-17 @Rice                     33  Louisiana                21           
+2022-09-17 @Southern Miss            64  Northwestern LA          10           
+2022-09-17 @Texas                    41  UT San Antonio           20           
+2022-09-17 @Texas A&M                17  Miami FL                  9           
+2022-09-17 @Tulsa                    54  Jacksonville St          17           
+2022-09-17 @UAB                      35  Ga Southern              21           
+2022-09-17 @Wisconsin                66  New Mexico St             7           
+2022-09-17 @Boise St                 30  TN Martin                 7           
+2022-09-17 @New Mexico               27  UTEP                     10           
+2022-09-17 @Utah                     35  San Diego St              7           
+2022-09-17 @Arizona                  31  N Dakota St              28           
+2022-09-17  E Michigan               30 @Arizona St               21           
+2022-09-17 @Oregon                   41  BYU                      20           
+2022-09-17 @Oregon St                68  Montana St               28           Portland OR
+2022-09-17 @UCLA                     32  South Alabama            31           
+2022-09-17 @UNLV                     58  North Texas              27           
+2022-09-17 @USC                      45  Fresno St                17           
+2022-09-17 @Washington               39  Michigan St              28           
+2022-09-17 @Washington St            38  Colorado St               7           
+2022-09-17 @Hawaii                   24  Duquesne                 14           
+2022-09-17 @Brown                    44  Bryant                   38 O2        
+2022-09-17 @Dartmouth                35  Valparaiso               13           
+2022-09-17 @Delaware St              35  VA-Lynchburg             19           
+2022-09-17  Furman                   27 @ETSU                     14           
+2022-09-17 @E Kentucky               40  Charleston So            17           
+2022-09-17 @Elon                     30  Gardner Webb             24           
+2022-09-17 @Holy Cross               38  Yale                     14           
+2022-09-17  Howard                   31  Morehouse                 0           East Rutherford NJ
+2022-09-17  Montana                  49 @Indiana St               14           
+2022-09-17  Richmond                 30 @Lehigh                    6           
+2022-09-17  Columbia                 38 @Marist                    3           
+2022-09-17 @Mercer                   17  Citadel                   0           
+2022-09-17 @Morehead St              49  Kentucky Chr             14           
+2022-09-17 @Morgan St                24  Sacred Heart              9           
+2022-09-17  NC Central               45 @New Hampshire            27           
+2022-09-17  Hampton                  17 @Norfolk St                7           
+2022-09-17 @Penn                     25  Colgate                  14           
+2022-09-17  Delaware                 42 @Rhode Island             21           
+2022-09-17  Cornell                  28 @VMI                      22           
+2022-09-17  St Francis PA            27 @Wagner                    7           
+2022-09-17 @W Carolina               77  Presbyterian             21           
+2022-09-17 @Fordham                  48  SUNY Albany              45           
+2022-09-17 @Illinois St              35  E Illinois                7           
+2022-09-17 @Jackson St               66  Grambling                24           
+2022-09-17  N Colorado               21 @Lamar                    14           
+2022-09-17 @Monmouth NJ              45  Georgetown                6           
+2022-09-17  Incarnate Word           31 @Prairie View             14           
+2022-09-17 @South Dakota             38  Cal Poly                 21           
+2022-09-17 @S Dakota St              45  Butler                   17           
+2022-09-17 @SE Missouri St           42  Nicholls St              16           
+2022-09-17 @SE Louisiana             70  Central Conn              6           
+2022-09-17  Princeton                39 @Stetson                  14           
+2022-09-17 @Tarleton St              41  E New Mexico              6           
+2022-09-17  Samford                  33 @Tennessee Tech           28           
+2022-09-17  TX Southern              24  Southern Univ             0           Arlington TX
+2022-09-17  CS Sacramento            37 @Northern Iowa            21           
+2022-09-17  Southern Utah            17 @W Illinois               10           
+2022-09-17  Cent Arkansas            31 @Idaho St                 16           
+2022-09-17 @Weber St                 44  Utah Tech                14           
+2022-09-17 @Idaho                    42  Drake                    14           
+2022-09-17  North Dakota             27 @Northern Arizona         24           
+2022-09-17 @UC Davis                 43  San Diego                13           
+2022-09-17  William & Mary           34 @Lafayette                 7           
+2022-09-17 @Chattanooga              41  North Alabama            14           
+2022-09-17  Austin Peay              28 @Alabama A&M               3           
+2022-09-17 @Davidson                 56  St Andrew's               6           
+2022-09-17  Delta St                 28 @MS Valley St             17           
+2022-09-17 @Sam Houston St           27  TX A&M Commerce          17           
+2022-09-17  Alcorn St                30 @McNeese St               19           
+2022-09-17 @Dayton                   46  Kentucky St               3           
+2022-09-17 @Lindenwood               37  Keiser                    3           
+2022-09-22  Coastal Car              41 @Georgia St               24           
+2022-09-22  West Virginia            33 @Virginia Tech            10           
+2022-09-22 @Illinois                 31  Chattanooga               0           
+2022-09-23 @Syracuse                 22  Virginia                 20           
+2022-09-23 @Air Force                48  Nevada                   20           
+2022-09-23 @UTEP                     27  Boise St                 10           
+2022-09-24  James Madison            32 @Appalachian St           28           
+2022-09-24 @Cincinnati               45  Indiana                  24           
+2022-09-24  Navy                     23 @East Carolina            20 O2        
+2022-09-24  Buffalo                  50 @E Michigan               31           
+2022-09-24 @Florida St               44  Boston College           14           
+2022-09-24 @Georgia                  39  Kent                     22           
+2022-09-24 @Ga Southern              34  Ball St                  23           
+2022-09-24 @Kentucky                 31  N Illinois               23           
+2022-09-24 @Liberty                  21  Akron                    12           
+2022-09-24 @Louisville               41  South Florida             3           
+2022-09-24  MTSU                     45 @Miami FL                 31           
+2022-09-24 @Michigan                 34  Maryland                 27           
+2022-09-24  Minnesota                34 @Michigan St               7           
+2022-09-24  Notre Dame               45 @North Carolina           32           
+2022-09-24 @NC State                 41  Connecticut              10           
+2022-09-24 @Ohio                     59  Fordham                  52           
+2022-09-24 @Ohio St                  52  Wisconsin                21           
+2022-09-24 @Old Dominion             29  Arkansas St              26           
+2022-09-24 @Penn St                  33  C Michigan               14           
+2022-09-24 @Pittsburgh               45  Rhode Island             24           
+2022-09-24 @Purdue                   28  FL Atlantic              26           
+2022-09-24  Iowa                     27 @Rutgers                  10           
+2022-09-24 @South Carolina           56  Charlotte                20           
+2022-09-24 @Temple                   28  Massachusetts             0           
+2022-09-24 @Tennessee                38  Florida                  33           
+2022-09-24 @UCF                      27  Georgia Tech             10           
+2022-09-24  Clemson                  51 @Wake Forest              45 O2        
+2022-09-24 @Alabama                  55  Vanderbilt                3           
+2022-09-24 @Auburn                   17  Missouri                 14 O1        
+2022-09-24 @Houston                  34  Rice                     27           
+2022-09-24  Baylor                   31 @Iowa St                  24           
+2022-09-24 @Kansas                   35  Duke                     27           
+2022-09-24 @LSU                      38  New Mexico                0           
+2022-09-24 @ULM                      21  Louisiana                17           
+2022-09-24 @Memphis                  44  North Texas              34           
+2022-09-24 @Mississippi St           45  Bowling Green            14           
+2022-09-24  Miami OH                 17 @Northwestern             14           
+2022-09-24  Kansas St                41 @Oklahoma                 34           
+2022-09-24 @Mississippi              35  Tulsa                    27           
+2022-09-24  TCU                      42 @SMU                      34           
+2022-09-24 @South Alabama            38  Louisiana Tech           14           
+2022-09-24  Texas A&M                23  Arkansas                 21           Arlington TX
+2022-09-24 @Texas St                 34  Houston Chr               0           
+2022-09-24 @Texas Tech               37  Texas                    34 O1        
+2022-09-24 @Troy                     16  Marshall                  7           
+2022-09-24  Southern Miss            27 @Tulane                   24           
+2022-09-24 @UT San Antonio           52  TX Southern              24           
+2022-09-24 @WKU                      73  Florida Intl              0           
+2022-09-24 @BYU                      38  Wyoming                  24           
+2022-09-24  UCLA                     45 @Colorado                 17           
+2022-09-24  CS Sacramento            41 @Colorado St              10           
+2022-09-24 @New Mexico St            45  Hawaii                   26           
+2022-09-24  UNLV                     34 @Utah St                  24           
+2022-09-24  Utah                     34 @Arizona St               13           
+2022-09-24 @California               49  Arizona                  31           
+2022-09-24  USC                      17 @Oregon St                14           
+2022-09-24 @San Diego St             17  Toledo                   14           
+2022-09-24 @San Jose St              34  W Michigan                6           
+2022-09-24 @Washington               40  Stanford                 22           
+2022-09-24  Oregon                   44 @Washington St            41           
+2022-09-24 @SUNY Albany              45  Central Conn             26           
+2022-09-24 @Bethune-Cookman          36  Grambling                19           
+2022-09-24  Harvard                  35 @Brown                    28           
+2022-09-24  Furman                   24 @Charleston So            19           
+2022-09-24  Holy Cross               35 @Colgate                  10           
+2022-09-24  Yale                     38 @Cornell                  14           
+2022-09-24 @Delaware                 35  Hampton                   3           
+2022-09-24  Merrimack                26 @Delaware St              13           
+2022-09-24  Columbia                 42 @Georgetown                6           
+2022-09-24 @Kennesaw                 24  Wofford                  22           
+2022-09-24  Bryant                   31 @LIU Post                 29           
+2022-09-24  St Francis PA            45 @Norfolk St               26           
+2022-09-24 @NC A&T                   41  S Carolina St            27           
+2022-09-24 @NC Central               59  VA-Lynchburg             14           
+2022-09-24 @Penn                     12  Lafayette                 0           
+2022-09-24  Davidson                 56 @Presbyterian             24           
+2022-09-24 @Princeton                29  Lehigh                   17           
+2022-09-24 @Richmond                 51  Stony Brook               7           
+2022-09-24  ETSU                     45 @Robert Morris             3           
+2022-09-24 @Sacred Heart             38  Dartmouth                31 O1        
+2022-09-24  New Hampshire            37 @Towson                   14           
+2022-09-24  Monmouth NJ              49 @Villanova                42           
+2022-09-24  Elon                     35 @William & Mary           31           
+2022-09-24 @Abilene Chr              34  W New Mexico              7           
+2022-09-24  Prairie View             24 @Alabama St               15           
+2022-09-24 @Alcorn St                38  Ark Pine Bluff           21           
+2022-09-24 @Austin Peay              31  E Kentucky               20           
+2022-09-24  Marist                   30 @Drake                    25           
+2022-09-24 @Jackson St               49  MS Valley St              7           
+2022-09-24  S Dakota St              28 @Missouri St              14           
+2022-09-24  E Illinois               35 @Murray St                21           
+2022-09-24  Jacksonville St          52 @Nicholls St              21           
+2022-09-24 @Samford                  35  W Carolina               12           
+2022-09-24  N Dakota St              34 @South Dakota             17           
+2022-09-24 @SE Missouri St           35  Cent Arkansas            27           
+2022-09-24 @S Illinois               34  North Dakota             17           
+2022-09-24 @Stetson                  38  Morehead St              26           
+2022-09-24 @TN Martin                56  Lindenwood               26           
+2022-09-24 @Valparaiso               28  San Diego                21           
+2022-09-24  Northern Iowa            52 @W Illinois               17           
+2022-09-24 @Montana                  53  Portland St              16           
+2022-09-24 @N Colorado               35  Idaho St                 14           
+2022-09-24  Montana St               38 @E Washington             35           
+2022-09-24  Idaho                    27 @Northern Arizona         10           
+2022-09-24  Weber St                 17 @UC Davis                 12           
+2022-09-24 @Florida A&M              38  Alabama A&M              25           
+2022-09-24  Mercer                   45 @Gardner Webb             14           
+2022-09-24  Tarleton St              43 @North Alabama            28           
+2022-09-24 @TX A&M Commerce          63  North American            3           
+2022-09-24 @McNeese St               32  Mississippi Col          17           
+2022-09-24 @Southern Utah            31  Utah Tech                17           
+2022-09-24 @St Thomas MN             43  Lincoln CA                6           
+2022-09-24 @Northwestern LA          35  Lamar                    27           
+2022-09-24 @SE Louisiana             41  Incarnate Word           35           
+2022-09-24 @SF Austin                98  Warner                    0           
+2022-09-29 @BYU                      38  Utah St                  26           
+2022-09-29 @South Carolina           50  S Carolina St            10           
+2022-09-30  Tulane                   27 @Houston                  24 O1        
+2022-09-30 @UCLA                     40  Washington               32           
+2022-09-30  UT San Antonio           45 @MTSU                     30           
+2022-09-30 @Boise St                 35  San Diego St             13           
+2022-09-30 @UNLV                     31  New Mexico               20           
+2022-09-30  Penn                     23 @Dartmouth                17 O2        
+2022-10-01  Bowling Green            31 @Akron                    28           
+2022-10-01 @Appalachian St           49  Citadel                   0           
+2022-10-01  Georgia St               31 @Army                     14           
+2022-10-01 @Ball St                  44  N Illinois               38 O2        
+2022-10-01 @Boston College           34  Louisville               33           
+2022-10-01 @Buffalo                  24  Miami OH                 20           
+2022-10-01  UTEP                     41 @Charlotte                35           
+2022-10-01 @Clemson                  30  NC State                 20           
+2022-10-01 @Coastal Car              34  Ga Southern              30           
+2022-10-01 @Connecticut              19  Fresno St                14           
+2022-10-01 @Duke                     38  Virginia                 17           
+2022-10-01 @E Michigan               20  Massachusetts            13           
+2022-10-01  Wake Forest              31 @Florida St               21           
+2022-10-01 @James Madison            40  Texas St                 13           
+2022-10-01 @Kent                     31  Ohio                     24 O1        
+2022-10-01 @Marshall                 28  Gardner Webb              7           
+2022-10-01 @Maryland                 27  Michigan St              13           
+2022-10-01 @North Carolina           41  Virginia Tech            10           
+2022-10-01 @Ohio St                  49  Rutgers                  10           
+2022-10-01  Liberty                  38 @Old Dominion             24           
+2022-10-01 @Penn St                  17  Northwestern              7           
+2022-10-01  Georgia Tech             26 @Pittsburgh               21           
+2022-10-01  East Carolina            48  South Florida            28           Boca Raton FL
+2022-10-01 @Syracuse                 59  Wagner                    0           
+2022-10-01 @Toledo                   38  C Michigan               17           
+2022-10-01 @W Michigan               44  New Hampshire             7           
+2022-10-01  Alabama                  49 @Arkansas                 26           
+2022-10-01 @Arkansas St              45  ULM                      28           
+2022-10-01  LSU                      21 @Auburn                   17           
+2022-10-01  Oklahoma St              36 @Baylor                   25           
+2022-10-01  Michigan                 27 @Iowa                     14           
+2022-10-01 @Kansas                   14  Iowa St                  11           
+2022-10-01 @Kansas St                37  Texas Tech               28           
+2022-10-01  South Alabama            20 @Louisiana                17           
+2022-10-01 @Memphis                  24  Temple                    3           
+2022-10-01  Purdue                   20 @Minnesota                10           
+2022-10-01 @Mississippi St           42  Texas A&M                24           
+2022-10-01  Georgia                  26 @Missouri                 22           
+2022-10-01 @Nebraska                 35  Indiana                  21           
+2022-10-01 @North Texas              45  FL Atlantic              28           
+2022-10-01 @Mississippi              22  Kentucky                 19           
+2022-10-01 @Rice                     28  UAB                      24           
+2022-10-01 @TCU                      55  Oklahoma                 24           
+2022-10-01 @Texas                    38  West Virginia            20           
+2022-10-01  Cincinnati               31 @Tulsa                    21           
+2022-10-01  Troy                     34 @WKU                      27           
+2022-10-01  Illinois                 34 @Wisconsin                10           
+2022-10-01 @Air Force                13  Navy                     10           
+2022-10-01  Florida Intl             21 @New Mexico St             7           
+2022-10-01 @Utah                     42  Oregon St                16           
+2022-10-01  San Jose St              33 @Wyoming                  16           
+2022-10-01 @Arizona                  43  Colorado                 20           
+2022-10-01 @Oregon                   45  Stanford                 27           
+2022-10-01 @USC                      42  Arizona St               25           
+2022-10-01 @Washington St            28  California                9           
+2022-10-01  Lafayette                24 @Bucknell                 14           
+2022-10-01 @Campbell                 48  NC Central               18           
+2022-10-01  Cornell                  34 @Colgate                  31           
+2022-10-01  Princeton                24 @Columbia                  6           
+2022-10-01 @Dayton                   27  Drake                    14           
+2022-10-01 @Delaware                 24  Towson                   10           
+2022-10-01 @Delaware St              14  Robert Morris             9           
+2022-10-01  Chattanooga              24 @ETSU                     16           
+2022-10-01 @E Kentucky               35  Southern Utah            28           
+2022-10-01 @Elon                     30  Richmond                 27 O2        
+2022-10-01  Samford                  34 @Furman                   27           
+2022-10-01  Holy Cross               30 @Harvard                  21           
+2022-10-01  Monmouth NJ              35 @Lehigh                    7           
+2022-10-01  Villanova                45 @Maine                    20           
+2022-10-01  St Thomas MN             38 @Marist                   24           
+2022-10-01 @Merrimack                24  LIU Post                 23           
+2022-10-01 @Morehead St              14  Presbyterian             10           
+2022-10-01 @Morgan St                44  VA-Lynchburg             10           
+2022-10-01 @Rhode Island             38  Brown                    10           
+2022-10-01 @Sacred Heart             31  Norfolk St               14           
+2022-10-01 @St Francis PA            39  Central Conn             13           
+2022-10-01  William & Mary           27 @Stony Brook              10           
+2022-10-01 @W Carolina               38  VMI                      17           
+2022-10-01  Mercer                   42 @Wofford                   7           
+2022-10-01 @Yale                     34  Howard                   26           
+2022-10-01 @Cent Arkansas            49  Austin Peay              20           
+2022-10-01 @Davidson                 31  Butler                    0           
+2022-10-01 @Fordham                  59  Georgetown               38           
+2022-10-01  Prairie View             34  Grambling                14           Dallas TX
+2022-10-01  S Illinois               19 @Illinois St              14           
+2022-10-01  SE Missouri St           49 @Lindenwood               28           
+2022-10-01 @North Dakota             48  Missouri St              31           
+2022-10-01 @N Dakota St              27  Youngstown St            14           
+2022-10-01 @Northwestern LA          36  Nicholls St              33           
+2022-10-01 @S Dakota St              34  W Illinois               10           
+2022-10-01 @SE Louisiana             48  Murray St                14           
+2022-10-01 @Southern Univ            59  Ark Pine Bluff            3           
+2022-10-01  Sam Houston St           17 @SF Austin                16           Houston TX
+2022-10-01  Lane                     28 @Tennessee St             27 O1        
+2022-10-01  Alabama St               16 @TX Southern              13           
+2022-10-01 @Northern Iowa            20  Indiana St               14           
+2022-10-01 @TN Martin                45  Tennessee Tech           28           
+2022-10-01  Abilene Chr              26 @Utah Tech                10           
+2022-10-01  Montana                  28 @Idaho St                 20           
+2022-10-01 @Jacksonville St          35  Kennesaw                 28 O1        
+2022-10-01 @Montana St               41  UC Davis                 24           
+2022-10-01 @Alabama A&M              35  Bethune-Cookman          27           
+2022-10-01  CS Sacramento            49 @Cal Poly                 21           
+2022-10-01 @Idaho                    55  N Colorado               35           
+2022-10-01 @Portland St              35  Northern Arizona         27           
+2022-10-01 @Florida A&M              34  MS Valley St              7           
+2022-10-01 @NC A&T                   24  Bryant                   13           
+2022-10-01 @Stonehill                24  Duquesne                 20           
+2022-10-01  Houston Chr              37 @Lamar                    34           
+2022-10-01 @Incarnate Word           48  McNeese St               20           
+2022-10-02 @Florida                  52  E Washington             17           
+2022-10-05 @UCF                      41  SMU                      19           
+2022-10-07  Nebraska                 14 @Rutgers                  13           
+2022-10-07  Houston                  33 @Memphis                  32           
+2022-10-07  Colorado St              17 @Nevada                   14           
+2022-10-07 @San Jose St              40  UNLV                      7           
+2022-10-07  Harvard                  35 @Cornell                  28           
+2022-10-08  Clemson                  31 @Boston College            3           
+2022-10-08  Buffalo                  38 @Bowling Green             7           
+2022-10-08  Ball St                  17 @C Michigan               16           
+2022-10-08 @Cincinnati               28  South Florida            24           
+2022-10-08  Connecticut              33 @Florida Intl             12           
+2022-10-08 @Florida                  24  Missouri                 17           
+2022-10-08 @Georgia                  42  Auburn                   10           
+2022-10-08 @Georgia St               41  Ga Southern              33           
+2022-10-08 @Georgia Tech             23  Duke                     20 O1        
+2022-10-08  Michigan                 31 @Indiana                  10           
+2022-10-08  South Carolina           24 @Kentucky                 14           
+2022-10-08  Purdue                   31 @Maryland                 29           
+2022-10-08  Liberty                  42 @Massachusetts            24           
+2022-10-08  North Carolina           27 @Miami FL                 24           
+2022-10-08 @Miami OH                 27  Kent                     24           
+2022-10-08  Ohio St                  49 @Michigan St              20           
+2022-10-08 @Navy                     51  Tulsa                    21           
+2022-10-08 @NC State                 19  Florida St               17           
+2022-10-08 @Ohio                     55  Akron                    34           
+2022-10-08 @Pittsburgh               45  Virginia Tech            29           
+2022-10-08  Louisville               34 @Virginia                 17           
+2022-10-08 @Wake Forest              45  Army                     10           
+2022-10-08  E Michigan               45 @W Michigan               23           
+2022-10-08 @Alabama                  24  Texas A&M                20           
+2022-10-08  James Madison            42 @Arkansas St              20           
+2022-10-08 @Illinois                  9  Iowa                      6           
+2022-10-08  Kansas St                10 @Iowa St                   9           
+2022-10-08  TCU                      38 @Kansas                   31           
+2022-10-08  Tennessee                40 @LSU                      13           
+2022-10-08 @Louisiana Tech           41  UTEP                     31           
+2022-10-08  Coastal Car              28 @ULM                      21           
+2022-10-08 @Mississippi St           40  Arkansas                 17           
+2022-10-08  Toledo                   52 @N Illinois               32           
+2022-10-08  Wisconsin                42 @Northwestern              7           
+2022-10-08  Texas                    49  Oklahoma                  0           Dallas TX
+2022-10-08 @Oklahoma St              41  Texas Tech               31           
+2022-10-08 @Texas St                 36  Appalachian St           24           
+2022-10-08 @Troy                     27  Southern Miss            10           
+2022-10-08 @Tulane                   24  East Carolina             9           
+2022-10-08 @UAB                      41  MTSU                     14           
+2022-10-08 @UT San Antonio           31  WKU                      28           
+2022-10-08  Mississippi              52 @Vanderbilt               28           
+2022-10-08 @Boise St                 40  Fresno St                20           
+2022-10-08  Wyoming                  27 @New Mexico               14           
+2022-10-08 @Utah St                  34  Air Force                27           
+2022-10-08  Oregon                   49 @Arizona                  22           
+2022-10-08 @Arizona St               45  Washington               38           
+2022-10-08  Notre Dame               28  BYU                      20           Las Vegas NV
+2022-10-08 @San Diego St             16  Hawaii                   14           
+2022-10-08  Oregon St                28 @Stanford                 27           
+2022-10-08 @UCLA                     42  Utah                     32           
+2022-10-08 @USC                      30  Washington St            14           
+2022-10-08 @Butler                   31  Dayton                    0           
+2022-10-08 @Campbell                 34  Charleston So            28           
+2022-10-08  Brown                    27 @Central Conn             20           
+2022-10-08  Furman                   21 @Citadel                  10           
+2022-10-08 @Columbia                 28  Wagner                    7           
+2022-10-08  Merrimack                28 @Duquesne                 21           
+2022-10-08 @Elon                     27  Towson                   10           
+2022-10-08  Penn                     59 @Georgetown               28           
+2022-10-08  Maine                    31 @Hampton                  24           
+2022-10-08 @Holy Cross               57  Bucknell                  0           
+2022-10-08  N Dakota St              31 @Indiana St               26           
+2022-10-08 @Kennesaw                 40  North Alabama            34 O2        
+2022-10-08  Fordham                  40 @Lehigh                   28           
+2022-10-08 @Mercer                   49  W Carolina                6           
+2022-10-08  Norfolk St               24 @Morgan St                21           
+2022-10-08 @New Hampshire            24  Stony Brook              14           
+2022-10-08  Valparaiso               41 @Presbyterian             21           
+2022-10-08  Gardner Webb             48 @Robert Morris             0           
+2022-10-08  Florida A&M              20 @S Carolina St            14           
+2022-10-08  ETSU                     44 @VMI                      21           
+2022-10-08 @William & Mary           27  Delaware                 21           
+2022-10-08 @Yale                     24  Dartmouth                21           
+2022-10-08  Princeton                23 @Lafayette                 2           
+2022-10-08  Jackson St               26 @Alabama St               12           
+2022-10-08  Lindenwood               52 @Cent Arkansas            49           
+2022-10-08  San Diego                22 @Drake                    10           
+2022-10-08 @E Illinois               35  Northwestern LA          27           
+2022-10-08  S Illinois               38 @Missouri St              21           
+2022-10-08 @Monmouth NJ              38  SUNY Albany              31           
+2022-10-08  TN Martin                45 @Murray St                16           
+2022-10-08  Southern Univ            45 @Prairie View             13           
+2022-10-08 @Samford                  28  Wofford                  14           
+2022-10-08 @S Dakota St              28  South Dakota              3           
+2022-10-08 @SE Missouri St           34  Tennessee Tech           20           
+2022-10-08  TX A&M Commerce          31 @SE Louisiana             28           
+2022-10-08  Marist                   45 @Stetson                  31           
+2022-10-08 @Tennessee St             41  Bethune-Cookman          17           
+2022-10-08  Illinois St              23 @Northern Iowa            21           
+2022-10-08 @Alabama A&M              37  Grambling                31 O2        
+2022-10-08 @Montana St               37  Idaho St                  6           
+2022-10-08 @St Thomas MN             27  Davidson                 16           
+2022-10-08 @Weber St                 45  E Washington             21           
+2022-10-08  TX Southern              24 @Ark Pine Bluff           17           
+2022-10-08 @Northern Arizona         31  Cal Poly                 29           
+2022-10-08 @CS Sacramento            55  N Colorado                7           
+2022-10-08  North Dakota             35 @Youngstown St            30           
+2022-10-08  Nicholls St              19 @Houston Chr              17           
+2022-10-08  Alcorn St                30 @MS Valley St              7           
+2022-10-08  Tarleton St              42 @Southern Utah            40           
+2022-10-08 @Portland St              48  Lincoln CA                6           
+2022-10-08 @Bryant                   56  S Connecticut            10           
+2022-10-08 @Incarnate Word           56  Lamar                    17           
+2022-10-08 @SF Austin                41  Abilene Chr              38           
+2022-10-12  Louisiana                23 @Marshall                 13           
+2022-10-13 @UCF                      70  Temple                   13           
+2022-10-13 @West Virginia            43  Baylor                   40           
+2022-10-13 @NC Central               59  Morgan St                20           
+2022-10-14 @SMU                      40  Navy                     34           
+2022-10-14  UT San Antonio           30 @Florida Intl             10           
+2022-10-14 @Princeton                35  Brown                    19           
+2022-10-15  C Michigan               28 @Akron                    21           
+2022-10-15 @Army                     42  Colgate                  17           
+2022-10-15 @Ball St                  25  Connecticut              21           
+2022-10-15 @Bowling Green            17  Miami OH                 13           
+2022-10-15  Old Dominion             49 @Coastal Car              21           
+2022-10-15  North Carolina           38 @Duke                     35           
+2022-10-15 @East Carolina            47  Memphis                  45 O4        
+2022-10-15  N Illinois               39 @E Michigan               10           
+2022-10-15  LSU                      45 @Florida                  35           
+2022-10-15 @FL Atlantic              17  Rice                     14           
+2022-10-15  Clemson                  34 @Florida St               28           
+2022-10-15 @Georgia                  55  Vanderbilt                0           
+2022-10-15 @Ga Southern              45  James Madison            38           
+2022-10-15  Maryland                 38 @Indiana                  33           
+2022-10-15 @Kentucky                 27  Mississippi St           17           
+2022-10-15 @Liberty                  21  Gardner Webb             20           
+2022-10-15  Buffalo                  34 @Massachusetts             7           
+2022-10-15 @Michigan                 41  Penn St                  17           
+2022-10-15 @Michigan St              34  Wisconsin                28 O2        
+2022-10-15  Stanford                 16 @Notre Dame               14           
+2022-10-15 @Purdue                   43  Nebraska                 37           
+2022-10-15  Tulane                   45 @South Florida            31           
+2022-10-15 @Syracuse                 24  NC State                  9           
+2022-10-15 @Tennessee                52  Alabama                  49           
+2022-10-15 @Toledo                   52  Kent                     31           
+2022-10-15  Miami FL                 20 @Virginia Tech            14           
+2022-10-15  Ohio                     33 @W Michigan               14           
+2022-10-15 @Illinois                 26  Minnesota                14           
+2022-10-15  WKU                      35 @MTSU                     17           
+2022-10-15 @North Texas              47  Louisiana Tech           27           
+2022-10-15 @Oklahoma                 52  Kansas                   42           
+2022-10-15 @Mississippi              48  Auburn                   34           
+2022-10-15 @South Alabama            41  ULM                      34           
+2022-10-15 @Southern Miss            20  Arkansas St              19           
+2022-10-15 @TCU                      43  Oklahoma St              40 O2        
+2022-10-15 @Texas                    24  Iowa St                  21           
+2022-10-15 @Troy                     17  Texas St                 14           
+2022-10-15 @UAB                      34  Charlotte                20           
+2022-10-15  Arkansas                 52 @BYU                      35           
+2022-10-15 @Colorado                 20  California               13 O1        
+2022-10-15  Utah St                  17 @Colorado St              13           
+2022-10-15 @New Mexico St            21  New Mexico                9           
+2022-10-15 @Utah                     43  USC                      42           
+2022-10-15 @Fresno St                17  San Jose St              10           
+2022-10-15 @Oregon St                24  Washington St            10           
+2022-10-15  Air Force                42 @UNLV                      7           
+2022-10-15 @Washington               49  Arizona                  39           
+2022-10-15 @Hawaii                   31  Nevada                   16           
+2022-10-15  Hampton                  38 @SUNY Albany              37 O1        
+2022-10-15  Jackson St               48 @Bethune-Cookman           8           Jacksonville FL
+2022-10-15  Charleston So            24 @Bryant                   23           
+2022-10-15 @Campbell                 41  Robert Morris            10           
+2022-10-15 @Cornell                  19  Lehigh                   15           
+2022-10-15  New Hampshire            14 @Dartmouth                 0           
+2022-10-15  Sam Houston St           25 @E Kentucky               17           
+2022-10-15 @Fordham                  45  Stony Brook              14           
+2022-10-15 @Furman                   47  W Carolina               40           
+2022-10-15  Harvard                  41 @Howard                   25           
+2022-10-15  Cent Arkansas            51 @Kennesaw                 24           
+2022-10-15  St Francis PA            57 @LIU Post                  7           
+2022-10-15 @Maine                    38  Monmouth NJ              28           
+2022-10-15 @Mercer                   55  ETSU                     33           
+2022-10-15 @Merrimack                54  Wagner                   17           
+2022-10-15  Delaware St              28 @Norfolk St                7           
+2022-10-15 @NC A&T                   45  Edward Waters             7           
+2022-10-15 @Penn                     34  Columbia                 14           
+2022-10-15 @Rhode Island             17  Elon                     10           
+2022-10-15 @Richmond                 20  Villanova                10           
+2022-10-15 @S Carolina St            36  VA-Lynchburg              0           
+2022-10-15 @Wofford                  31  Citadel                  16           
+2022-10-15 @Yale                     29  Bucknell                  9           
+2022-10-15 @Abilene Chr              21  Southern Utah            18           
+2022-10-15 @Alabama St               24  MS Valley St              9           
+2022-10-15 @Austin Peay              52  Murray St                17           
+2022-10-15 @Davidson                 28  Morehead St              26           
+2022-10-15  Lindenwood               37 @E Illinois               34 O2        
+2022-10-15  Florida A&M              20 @Grambling                16           
+2022-10-15 @Illinois St              12  South Dakota             10           
+2022-10-15  Incarnate Word           49 @Nicholls St              14           
+2022-10-15  Jacksonville St          47  North Alabama            31           Madison AL
+2022-10-15  S Dakota St              23 @N Dakota St              21           
+2022-10-15 @S Illinois               30  W Illinois                7           
+2022-10-15 @Southern Univ            21  Alcorn St                17           
+2022-10-15  Tennessee St             30 @Tennessee Tech           14           
+2022-10-15  TX A&M Commerce          40 @McNeese St               15           
+2022-10-15 @Northern Iowa            41  Utah Tech                14           
+2022-10-15  Butler                   26 @Valparaiso               25           
+2022-10-15 @Chattanooga              41  VMI                      13           
+2022-10-15 @Idaho St                 40  Cal Poly                 31           
+2022-10-15  Idaho                    30 @Montana                  23           
+2022-10-15  Montana St               37 @N Colorado               14           
+2022-10-15 @St Thomas MN             26  Drake                    14           
+2022-10-15 @Youngstown St            48  Indiana St               42           
+2022-10-15  CS Sacramento            52 @E Washington             28           
+2022-10-15  Weber St                 42 @Portland St               7           
+2022-10-15 @San Diego                28  Presbyterian              3           
+2022-10-15 @UC Davis                 56  Northern Arizona         27           
+2022-10-15  Northwestern LA          37 @Houston Chr              10           
+2022-10-15  Dayton                   24 @Marist                    7           
+2022-10-15 @Sacred Heart             40  Stonehill                27           
+2022-10-15 @SF Austin                41  Tarleton St              24           
+2022-10-16  Alabama A&M              34  Ark Pine Bluff           31           St Louis MO
+2022-10-19 @Appalachian St           42  Georgia St               17           
+2022-10-20  Virginia                 16 @Georgia Tech              9           
+2022-10-20  Troy                     10 @South Alabama             6           
+2022-10-21  Tulsa                    27 @Temple                   16           
+2022-10-21 @WKU                      20  UAB                      17           
+2022-10-21  Princeton                37 @Harvard                  10           
+2022-10-21 @Wagner                   37  LIU Post                 26           
+2022-10-22 @Army                     48  ULM                      24           
+2022-10-22  E Michigan               20 @Ball St                  16           
+2022-10-22 @Buffalo                  34  Toledo                   27           
+2022-10-22  Bowling Green            34 @C Michigan               18           
+2022-10-22  Florida Intl             34 @Charlotte                15           
+2022-10-22 @Clemson                  27  Syracuse                 21           
+2022-10-22 @East Carolina            34  UCF                      13           
+2022-10-22  Marshall                 26 @James Madison            12           
+2022-10-22 @Kent                     33  Akron                    27           
+2022-10-22 @Liberty                  41  BYU                      14           
+2022-10-22 @Louisville               24  Pittsburgh               10           
+2022-10-22 @Maryland                 31  Northwestern             24           
+2022-10-22  Duke                     45 @Miami FL                 21           
+2022-10-22  W Michigan               16 @Miami OH                 10           
+2022-10-22  Houston                  38 @Navy                     20           
+2022-10-22 @Notre Dame               44  UNLV                     21           
+2022-10-22 @Ohio                     24  N Illinois               17           
+2022-10-22 @Ohio St                  54  Iowa                     10           
+2022-10-22  Ga Southern              28 @Old Dominion             23           
+2022-10-22 @Penn St                  45  Minnesota                17           
+2022-10-22 @Rutgers                  24  Indiana                  17           
+2022-10-22 @South Carolina           30  Texas A&M                24           
+2022-10-22 @Tennessee                65  TN Martin                24           
+2022-10-22 @Wake Forest              43  Boston College           15           
+2022-10-22 @Alabama                  30  Mississippi St            6           
+2022-10-22 @Baylor                   35  Kansas                   23           
+2022-10-22 @LSU                      45  Mississippi              20           
+2022-10-22 @Louisiana                38  Arkansas St              18           
+2022-10-22  Rice                     42 @Louisiana Tech           41 O1        
+2022-10-22 @Missouri                 17  Vanderbilt               14           
+2022-10-22 @Oklahoma St              41  Texas                    34           
+2022-10-22  Cincinnati               29 @SMU                      27           
+2022-10-22 @TCU                      38  Kansas St                28           
+2022-10-22  Southern Miss            20 @Texas St                 14           
+2022-10-22 @Texas Tech               48  West Virginia            10           
+2022-10-22 @Tulane                   38  Memphis                  28           
+2022-10-22 @UT San Antonio           31  North Texas              27           
+2022-10-22 @Wisconsin                35  Purdue                   24           
+2022-10-22  Boise St                 19 @Air Force                14           
+2022-10-22 @Colorado St              17  Hawaii                   13           
+2022-10-22  Fresno St                41 @New Mexico                9           
+2022-10-22 @UTEP                     24  FL Atlantic              21           
+2022-10-22 @Wyoming                  28  Utah St                  14           
+2022-10-22  Washington               28 @California               21           
+2022-10-22  San Diego St             23 @Nevada                    7           
+2022-10-22 @Oregon                   45  UCLA                     30           
+2022-10-22 @Oregon St                42  Colorado                  9           
+2022-10-22 @Stanford                 15  Arizona St               14           
+2022-10-22  Cornell                  24 @Brown                    21           
+2022-10-22 @Butler                   31  Marist                   10           
+2022-10-22  Duquesne                 30 @Central Conn              6           
+2022-10-22  Gardner Webb             28 @Charleston So            14           
+2022-10-22 @Colgate                  34  Georgetown               24           
+2022-10-22  Dartmouth                27 @Columbia                 24           
+2022-10-22 @Dayton                   23  Stetson                  20           
+2022-10-22 @Delaware                 38  Morgan St                 7           
+2022-10-22  Samford                  55 @ETSU                     45           
+2022-10-22 @E Kentucky               56  North Alabama            53           
+2022-10-22  Richmond                 41 @Hampton                  10           
+2022-10-22 @Howard                   35  Delaware St              17           
+2022-10-22  Illinois St              27 @Indiana St               21           
+2022-10-22 @Kennesaw                 33  Tennessee Tech           30 O1        
+2022-10-22  Bucknell                 19 @Lehigh                   17           
+2022-10-22 @Merrimack                31  Sacred Heart             25           
+2022-10-22  Valparaiso               40 @Morehead St              35           
+2022-10-22 @New Hampshire            40  Elon                     22           
+2022-10-22 @Penn                     20  Yale                     13           
+2022-10-22  St Thomas MN             46 @Presbyterian             17           
+2022-10-22  NC A&T                   38 @Robert Morris            14           
+2022-10-22 @S Carolina St            26  NC Central               24           
+2022-10-22 @Stony Brook              28  Maine                    27           
+2022-10-22  William & Mary           44 @Towson                   24           
+2022-10-22  Furman                   41 @VMI                       3           
+2022-10-22 @Villanova                31  SUNY Albany              29           
+2022-10-22  Citadel                  34 @W Carolina               21           
+2022-10-22  TX Southern              34 @Alcorn St                27           
+2022-10-22  Davidson                 48 @Drake                    14           
+2022-10-22 @Jackson St               22  Campbell                 14           
+2022-10-22  Prairie View             54 @Lamar                    21           
+2022-10-22 @Lindenwood               33  Murray St                18           
+2022-10-22  Rhode Island             48 @Monmouth NJ              46 O7        
+2022-10-22 @Nicholls St              40  McNeese St               35           
+2022-10-22  S Dakota St              49 @North Dakota             35           
+2022-10-22  SE Missouri St           51 @Northwestern LA          16           
+2022-10-22 @South Dakota             27  S Illinois               24           
+2022-10-22 @Southern Univ            51  VA-Lynchburg              7           
+2022-10-22 @Tennessee St             37  E Illinois               17           
+2022-10-22 @TX A&M Commerce          31  Houston Chr               3           
+2022-10-22 @Northern Iowa            41  Missouri St              20           
+2022-10-22  Youngstown St            28 @W Illinois               27           
+2022-10-22 @Chattanooga              41  Mercer                   21           
+2022-10-22  Northern Arizona         24 @Idaho St                 10           
+2022-10-22  SE Louisiana             31 @Jacksonville St          14           
+2022-10-22 @Montana St               43  Weber St                 38           
+2022-10-22  UC Davis                 58 @N Colorado               10           
+2022-10-22  E Washington             17 @Cal Poly                 10           
+2022-10-22 @Idaho                    56  Portland St              21           
+2022-10-22 @CS Sacramento            31  Montana                  24 O1        
+2022-10-22  SF Austin                41 @Southern Utah            38           
+2022-10-22  Holy Cross               24 @Lafayette                21           
+2022-10-22  Bethune-Cookman          45 @MS Valley St             35           
+2022-10-22 @St Francis PA            17  Stonehill                13           
+2022-10-22 @Tarleton St              24  SW Baptist               10           
+2022-10-22  Sam Houston St           18 @Utah Tech                13           
+2022-10-22 @Incarnate Word           70  Faulkner                  0           
+2022-10-27 @NC State                 22  Virginia Tech            21           
+2022-10-27 @Southern Miss            39  Louisiana                24           
+2022-10-27  Utah                     21 @Washington St            17           
+2022-10-28  East Carolina            27 @BYU                      24           
+2022-10-28 @Florida Intl             42  Louisiana Tech           34 O2        
+2022-10-28  Yale                     41 @Columbia                 16           
+2022-10-29  Oklahoma                 27 @Iowa St                  13           
+2022-10-29 @Iowa                     33  Northwestern             13           
+2022-10-29  Miami OH                 27 @Akron                     9           
+2022-10-29 @Appalachian St           42  Robert Morris             3           
+2022-10-29 @Connecticut              13  Boston College            3           
+2022-10-29  Toledo                   27 @E Michigan               24           
+2022-10-29 @FL Atlantic              24  UAB                      17           
+2022-10-29 @Florida St               41  Georgia Tech             16           
+2022-10-29  Georgia                  42  Florida                  20           Jacksonville FL
+2022-10-29 @Georgia St               31  Old Dominion             17           
+2022-10-29 @Louisville               48  Wake Forest              21           
+2022-10-29  Coastal Car              24 @Marshall                 13           
+2022-10-29  New Mexico St            23 @Massachusetts            13           
+2022-10-29 @Michigan                 29  Michigan St               7           
+2022-10-29 @Navy                     27  Temple                   20 O1        
+2022-10-29 @North Carolina           42  Pittsburgh               24           
+2022-10-29  Ohio St                  44 @Penn St                  31           
+2022-10-29  Missouri                 23 @South Carolina           10           
+2022-10-29  Notre Dame               41 @Syracuse                 24           
+2022-10-29 @Tennessee                44  Kentucky                  6           
+2022-10-29 @UCF                      25  Cincinnati               21           
+2022-10-29  Miami FL                 14 @Virginia                 12 O4        
+2022-10-29  TCU                      41 @West Virginia            31           
+2022-10-29  South Alabama            31 @Arkansas St               3           
+2022-10-29  Arkansas                 41 @Auburn                   27           
+2022-10-29 @Houston                  42  South Florida            27           
+2022-10-29 @Kansas St                48  Oklahoma St               0           
+2022-10-29 @Minnesota                31  Rutgers                   0           
+2022-10-29  Illinois                 26 @Nebraska                  9           
+2022-10-29  Charlotte                56 @Rice                     23           
+2022-10-29  Mississippi              31 @Texas A&M                28           
+2022-10-29  Baylor                   45 @Texas Tech               17           
+2022-10-29  SMU                      45 @Tulsa                    34           
+2022-10-29  North Texas              40 @WKU                      13           
+2022-10-29 @Boise St                 49  Colorado St              10           
+2022-10-29  Arizona St               42 @Colorado                 34           
+2022-10-29  MTSU                     24 @UTEP                     13           
+2022-10-29  USC                      45 @Arizona                  37           
+2022-10-29  Oregon                   42 @California               24           
+2022-10-29 @Fresno St                32  San Diego St             28           
+2022-10-29 @San Jose St              35  Nevada                   28           
+2022-10-29 @UCLA                     38  Stanford                 13           
+2022-10-29  Wyoming                  27 @Hawaii                   20           
+2022-10-29 @SUNY Albany              59  Stony Brook              14           
+2022-10-29 @Brown                    34  Penn                     31           
+2022-10-29  Colgate                  13 @Bucknell                  7           
+2022-10-29 @Butler                   56  Morehead St              20           
+2022-10-29 @Central Conn             34  Wagner                    7           
+2022-10-29  Samford                  38 @Citadel                   3           
+2022-10-29  Harvard                  28 @Dartmouth                13           
+2022-10-29 @Dayton                   31  Valparaiso               24           
+2022-10-29  NC Central               28 @Delaware St              21           
+2022-10-29  LIU Post                 50 @Duquesne                 48 O2        
+2022-10-29 @Elon                     27  Delaware                  7           
+2022-10-29 @Furman                   24  Chattanooga              20           
+2022-10-29 @Holy Cross               53  Fordham                  52 O1        
+2022-10-29 @Kennesaw                 30  Charleston So            20           
+2022-10-29  Richmond                 31 @Maine                    21           
+2022-10-29 @Morgan St                41  S Carolina St            14           
+2022-10-29  Howard                   49 @Norfolk St               21           
+2022-10-29 @NC A&T                   45  Campbell                 38           
+2022-10-29 @Princeton                35  Cornell                   9           
+2022-10-29  St Francis PA            44 @Sacred Heart             14           
+2022-10-29  Mercer                   55 @VMI                      14           
+2022-10-29 @Villanova                24  Hampton                  10           
+2022-10-29 @William & Mary           31  Rhode Island             30           
+2022-10-29 @Wofford                  48  ETSU                     41           
+2022-10-29  Georgetown               30 @Lafayette                20           
+2022-10-29  Alabama St               24  Alabama A&M              17           Birmingham AL
+2022-10-29  Jacksonville St          40 @Austin Peay              16           
+2022-10-29 @Cent Arkansas            64  North Alabama            29           
+2022-10-29  Tennessee Tech           20 @E Illinois               17           
+2022-10-29 @Grambling                35  Alcorn St                 6           
+2022-10-29  TN Martin                52 @Houston Chr              28           
+2022-10-29 @Jackson St               35  Southern Univ             0           
+2022-10-29 @Missouri St              64  W Illinois               14           
+2022-10-29  Towson                   52 @Monmouth NJ              48           
+2022-10-29 @Murray St                19  Tennessee St              3           
+2022-10-29 @North Dakota             34  Abilene Chr              31           
+2022-10-29 @N Dakota St              24  Illinois St               7           
+2022-10-29 @Prairie View             58  Bethune-Cookman          48           
+2022-10-29 @S Dakota St              49  Indiana St                7           
+2022-10-29  E Kentucky               28 @SE Missouri St           23           
+2022-10-29  Northern Iowa            37 @S Illinois               36           
+2022-10-29  Utah Tech                47 @SF Austin                44           
+2022-10-29  Drake                    24 @Stetson                  17           
+2022-10-29 @Gardner Webb             48  Bryant                   40           
+2022-10-29 @St Thomas MN             49  San Diego                42           
+2022-10-29 @Weber St                 24  Montana                  21           
+2022-10-29 @Youngstown St            45  South Dakota             24           
+2022-10-29  Portland St              38 @E Washington             35           
+2022-10-29 @CS Sacramento            31  Idaho                    28           
+2022-10-29 @UC Davis                 59  Cal Poly                 17           
+2022-10-29 @Florida A&M              27  Ark Pine Bluff            6           
+2022-10-29  SE Louisiana             28 @McNeese St               27           
+2022-10-29 @TX Southern              37  Lincoln CA                2           
+2022-10-29 @Lindenwood               64  Wm Jewell                23           
+2022-10-29 @Marist                   37  Presbyterian              7           
+2022-10-29  Merrimack                17 @Stonehill                10           
+2022-10-29  Sam Houston St           40 @Tarleton St              21           
+2022-10-29  Incarnate Word           35 @TX A&M Commerce           7           
+2022-10-29 @Lamar                    24  Nicholls St              17           
+2022-11-01  Ball St                  27 @Kent                     20           
+2022-11-01 @Ohio                     45  Buffalo                  24           
+2022-11-02 @Bowling Green            13  W Michigan                9           
+2022-11-02  C Michigan               35 @N Illinois               22           
+2022-11-03 @Coastal Car              35  Appalachian St           28           
+2022-11-03 @Rice                     37  UTEP                     30           
+2022-11-03 @MS Valley St             30  Alabama A&M              20           
+2022-11-04  Duke                     38 @Boston College           31           
+2022-11-04 @Washington               24  Oregon St                21           
+2022-11-04 @Connecticut              27  Massachusetts            10           
+2022-11-04  Alcorn St                23 @Prairie View             16 O1        
+2022-11-05  WKU                      59 @Charlotte                 7           
+2022-11-05 @Cincinnati               20  Navy                     10           
+2022-11-05 @Georgia                  27  Tennessee                13           
+2022-11-05  South Alabama            38 @Ga Southern              31           
+2022-11-05  Penn St                  45 @Indiana                  14           
+2022-11-05 @Louisville               34  James Madison            10           
+2022-11-05  Florida St               45 @Miami FL                  3           
+2022-11-05 @NC State                 30  Wake Forest              21           
+2022-11-05 @Notre Dame               35  Clemson                  14           
+2022-11-05  Marshall                 12 @Old Dominion              0           
+2022-11-05 @Pittsburgh               19  Syracuse                  9           
+2022-11-05  Iowa                     24 @Purdue                    3           
+2022-11-05  Michigan                 52 @Rutgers                  17           
+2022-11-05 @Temple                   54  South Florida            28           
+2022-11-05  North Carolina           31 @Virginia                 28           
+2022-11-05  Georgia Tech             28 @Virginia Tech            27           
+2022-11-05  Liberty                  21 @Arkansas                 19           
+2022-11-05  Air Force                13  Army                      7           Arlington TX
+2022-11-05  Michigan St              23 @Illinois                 15           
+2022-11-05 @Iowa St                  31  West Virginia            14           
+2022-11-05 @Kansas                   37  Oklahoma St              16           
+2022-11-05  Texas                    34 @Kansas St                27           
+2022-11-05 @LSU                      32  Alabama                  31 O1        
+2022-11-05  Troy                     23 @Louisiana                17           
+2022-11-05 @Louisiana Tech           40  MTSU                     24           
+2022-11-05 @ULM                      31  Texas St                 30           
+2022-11-05  UCF                      35 @Memphis                  28           
+2022-11-05 @Mississippi St           39  Auburn                   33 O1        
+2022-11-05  Kentucky                 21 @Missouri                 17           
+2022-11-05  Minnesota                20 @Nebraska                 13           
+2022-11-05 @North Texas              52  Florida Intl             14           
+2022-11-05  Ohio St                  21 @Northwestern              7           
+2022-11-05  Baylor                   38 @Oklahoma                 35           
+2022-11-05 @SMU                      77  Houston                  63           
+2022-11-05  Georgia St               42 @Southern Miss            14           
+2022-11-05 @TCU                      34  Texas Tech               24           
+2022-11-05  Florida                  41 @Texas A&M                24           
+2022-11-05  Tulane                   27 @Tulsa                    13           
+2022-11-05  UT San Antonio           44 @UAB                      38 O2        
+2022-11-05  South Carolina           38 @Vanderbilt               27           
+2022-11-05 @Wisconsin                23  Maryland                 10           
+2022-11-05  BYU                      31 @Boise St                 28           
+2022-11-05  Oregon                   49 @Colorado                 10           
+2022-11-05 @Utah                     45  Arizona                  20           
+2022-11-05 @Utah St                  27  New Mexico               10           
+2022-11-05  UCLA                     50 @Arizona St               36           
+2022-11-05 @Fresno St                55  Hawaii                   13           
+2022-11-05 @San Diego St             14  UNLV                     10           
+2022-11-05 @San Jose St              28  Colorado St              16           
+2022-11-05  Washington St            52 @Stanford                 14           
+2022-11-05 @USC                      41  California               35           
+2022-11-05  Alabama St               37 @Bethune-Cookman          22           
+2022-11-05 @Bryant                   43  Campbell                 37           
+2022-11-05  Fordham                  59 @Bucknell                 17           
+2022-11-05 @Charleston So            34  Robert Morris            21           
+2022-11-05  Chattanooga              31 @Citadel                  21           
+2022-11-05  Lafayette                21 @Colgate                  16           
+2022-11-05  Penn                     28 @Cornell                  21           
+2022-11-05 @Delaware                 49  Monmouth NJ              17           
+2022-11-05 @Duquesne                 35  Sacred Heart             28 O1        
+2022-11-05 @E Kentucky               42  Cent Arkansas            14           
+2022-11-05 @Elon                     27  SUNY Albany               3           
+2022-11-05  St Francis PA            38 @Georgetown               24           
+2022-11-05  William & Mary           20 @Hampton                  14           
+2022-11-05  Columbia                 21 @Harvard                  20           
+2022-11-05 @Holy Cross               42  Lehigh                   14           
+2022-11-05  North Dakota             42 @Indiana St                7           
+2022-11-05 @LIU Post                 29  Central Conn             20           
+2022-11-05  Marist                   31 @Morehead St              21           
+2022-11-05 @NC A&T                   49  Norfolk St               24           
+2022-11-05 @NC Central               50  Howard                   21           
+2022-11-05 @Princeton                17  Dartmouth                14           
+2022-11-05 @Rhode Island             26  Maine                    22           
+2022-11-05 @Richmond                 40  New Hampshire            34           
+2022-11-05  Delaware St              27 @S Carolina St            24 O1        
+2022-11-05 @Stony Brook              24  Morgan St                22           
+2022-11-05 @Towson                   27  Villanova                 3           
+2022-11-05 @W Carolina               36  Wofford                  29           
+2022-11-05 @Yale                     69  Brown                    17           
+2022-11-05 @Davidson                 56  Stetson                  48 O2        
+2022-11-05  Youngstown St            19 @Illinois St              17           
+2022-11-05  Austin Peay              38 @North Alabama            35           
+2022-11-05 @Samford                  34  VMI                      15           
+2022-11-05 @South Dakota             20  Missouri St              13           
+2022-11-05  SE Missouri St           42 @Tennessee St              0           
+2022-11-05 @Tennessee Tech           35  Lindenwood               34           
+2022-11-05  Northwestern LA          41 @TX A&M Commerce          14           
+2022-11-05  Jackson St               41 @TX Southern              14           
+2022-11-05  S Dakota St              31 @Northern Iowa            28           
+2022-11-05  Kennesaw                 44 @TN Martin                27           
+2022-11-05  St Thomas MN             34 @Valparaiso                7           
+2022-11-05  N Dakota St              56 @W Illinois               17           
+2022-11-05 @Montana                  57  Cal Poly                  0           
+2022-11-05  CS Sacramento            33 @Weber St                 30           
+2022-11-05 @Idaho                    48  E Washington             16           
+2022-11-05  Montana St               41 @Northern Arizona         38           
+2022-11-05 @Portland St              35  N Colorado               21           
+2022-11-05  Butler                   26 @San Diego                23           
+2022-11-05 @UC Davis                 43  Idaho St                  3           
+2022-11-05 @Florida A&M              30  Southern Univ            16           
+2022-11-05 @McNeese St               29  E Illinois               15           
+2022-11-05  Dayton                   52 @Presbyterian             28           
+2022-11-05 @Stonehill                50  Wagner                   10           
+2022-11-05  Abilene Chr              28 @Tarleton St              23           
+2022-11-05 @Incarnate Word           73  Houston Chr              20           
+2022-11-05  SE Louisiana             47 @Lamar                    31           
+2022-11-05 @Utah Tech                48  Southern Utah            36           
+2022-11-05 @Grambling                36  Ark Pine Bluff           10           
+2022-11-08  E Michigan               34 @Akron                    28           
+2022-11-08  Ohio                     37 @Miami OH                 21           
+2022-11-08 @Toledo                   28  Ball St                  21           
+2022-11-09  Kent                     40 @Bowling Green             6           
+2022-11-09 @C Michigan               31  Buffalo                  27           
+2022-11-09  N Illinois               24 @W Michigan               21           
+2022-11-10 @Louisiana                36  Ga Southern              17           
+2022-11-10 @Memphis                  26  Tulsa                    10           
+2022-11-11 @Cincinnati               27  East Carolina            25           
+2022-11-11 @USC                      55  Colorado                 17           
+2022-11-11  Fresno St                37 @UNLV                     30           
+2022-11-11  CS Sacramento            45 @Portland St              17           
+2022-11-12 @Clemson                  31  Louisville               16           
+2022-11-12 @Coastal Car              26  Southern Miss            23           
+2022-11-12 @Connecticut              36  Liberty                  33           
+2022-11-12 @Duke                     24  Virginia Tech             7           
+2022-11-12  FL Atlantic              52 @Florida Intl              7           
+2022-11-12 @Florida                  38  South Carolina            6           
+2022-11-12  ULM                      31 @Georgia St               28           
+2022-11-12  Miami FL                 35 @Georgia Tech             14           
+2022-11-12  Vanderbilt               24 @Kentucky                 21           
+2022-11-12 @Marshall                 28  Appalachian St           21           
+2022-11-12 @Michigan                 34  Nebraska                  3           
+2022-11-12 @Michigan St              27  Rutgers                  21           
+2022-11-12  Notre Dame               35 @Navy                     32           Baltimore MD
+2022-11-12  Boston College           21 @NC State                 20           
+2022-11-12 @Ohio St                  56  Indiana                  14           
+2022-11-12  James Madison            37 @Old Dominion              3           
+2022-11-12 @Penn St                  30  Maryland                  0           
+2022-11-12  SMU                      41 @South Florida            23           
+2022-11-12  Florida St               38 @Syracuse                  3           
+2022-11-12 @Tennessee                66  Missouri                 24           
+2022-11-12  Pittsburgh               37 @Virginia                  7           
+2022-11-12  North Carolina           36 @Wake Forest              34           
+2022-11-12 @West Virginia            23  Oklahoma                 20           
+2022-11-12  LSU                      13 @Arkansas                 10           
+2022-11-12 @Arkansas St              35  Massachusetts            33           
+2022-11-12 @Auburn                   13  Texas A&M                10           
+2022-11-12  Kansas St                31 @Baylor                    3           
+2022-11-12 @Houston                  43  Temple                   36           
+2022-11-12  Purdue                   31 @Illinois                 24           
+2022-11-12 @Iowa                     24  Wisconsin                10           
+2022-11-12 @MTSU                     24  Charlotte                14           
+2022-11-12 @Minnesota                31  Northwestern              3           
+2022-11-12  Georgia                  45 @Mississippi St           19           
+2022-11-12 @Oklahoma St              20  Iowa St                  14           
+2022-11-12  Alabama                  30 @Mississippi              24           
+2022-11-12 @South Alabama            38  Texas St                 21           
+2022-11-12  TCU                      17 @Texas                    10           
+2022-11-12 @Texas Tech               43  Kansas                   28           
+2022-11-12 @Troy                     10  Army                      9           
+2022-11-12  UCF                      38 @Tulane                   31           
+2022-11-12 @UAB                      41  North Texas              21           
+2022-11-12 @UT San Antonio           51  Louisiana Tech            7           
+2022-11-12 @WKU                      45  Rice                     10           
+2022-11-12 @Air Force                35  New Mexico                3           
+2022-11-12  Wyoming                  14 @Colorado St              13           
+2022-11-12 @New Mexico St            51  Lamar                    14           
+2022-11-12 @Utah                     42  Stanford                  7           
+2022-11-12  Boise St                 41 @Nevada                    3           
+2022-11-12  Washington               37 @Oregon                   34           
+2022-11-12 @Oregon St                38  California               10           
+2022-11-12 @San Diego St             43  San Jose St              27           
+2022-11-12  Arizona                  34 @UCLA                     28           
+2022-11-12 @Washington St            28  Arizona St               18           
+2022-11-12  Utah St                  41 @Hawaii                   34           
+2022-11-12 @SUNY Albany              23  Maine                    21           
+2022-11-12  Columbia                 31 @Brown                    24 O1        
+2022-11-12  Gardner Webb             42 @Campbell                 35           
+2022-11-12  Merrimack                20 @Central Conn             14           
+2022-11-12 @Citadel                  66  VA-Lynchburg              0           
+2022-11-12 @Cornell                  17  Dartmouth                13           
+2022-11-12 @Dayton                   49  Morehead St              27           
+2022-11-12  Richmond                 21 @Delaware                 13           
+2022-11-12  Morgan St                37 @Delaware St               7           
+2022-11-12  W Carolina               20 @ETSU                     17           
+2022-11-12  Bucknell                 24 @Georgetown               21 O1        
+2022-11-12  Elon                     38 @Hampton                  24           
+2022-11-12 @Holy Cross               36  Bryant                   29           
+2022-11-12 @Howard                   28  S Carolina St            14           
+2022-11-12  Austin Peay              31 @Kennesaw                 14           
+2022-11-12 @Lehigh                   36  Colgate                  33           
+2022-11-12  Valparaiso               45 @Marist                   24           
+2022-11-12  Furman                   23 @Mercer                   13           
+2022-11-12 @New Hampshire            31  Rhode Island             28           
+2022-11-12  NC Central               48 @Norfolk St               14           
+2022-11-12 @NC A&T                   20  Charleston So            10           
+2022-11-12  Harvard                  37 @Penn                     14           
+2022-11-12 @St Francis PA            51  Duquesne                 14           
+2022-11-12  Towson                   21 @Stony Brook              17           
+2022-11-12  Sacred Heart             38 @Wagner                   28           
+2022-11-12 @William & Mary           45  Villanova                12           
+2022-11-12 @Wofford                  34  VMI                      16           
+2022-11-12 @Yale                     24  Princeton                20           
+2022-11-12  Jackson St               27  Alabama A&M              13           Mobile AL
+2022-11-12  Florida A&M              21 @Alabama St               14           
+2022-11-12 @Alcorn St                17  Bethune-Cookman          14           
+2022-11-12  Prairie View             55 @Ark Pine Bluff           24           
+2022-11-12 @Drake                    27  Butler                   24           
+2022-11-12  SE Missouri St           31 @E Illinois                7           
+2022-11-12 @Fordham                  45  Lafayette                10           
+2022-11-12 @Lindenwood               63  McKendree                35           
+2022-11-12 @Missouri St              25  Youngstown St            22           
+2022-11-12 @Murray St                27  Robert Morris             9           
+2022-11-12 @North Dakota             28  South Dakota             19           
+2022-11-12 @S Dakota St              31  Illinois St               7           
+2022-11-12 @SE Louisiana             23  Northwestern LA           7           
+2022-11-12  N Dakota St              21 @S Illinois               18           
+2022-11-12 @Southern Univ            27  MS Valley St              7           
+2022-11-12  Cent Arkansas            34 @SF Austin                 7           
+2022-11-12  TN Martin                20 @Tennessee St              3           
+2022-11-12 @TX Southern              41  Grambling                 7           
+2022-11-12  Indiana St               21 @W Illinois                0           
+2022-11-12  Samford                  35 @Chattanooga              24           
+2022-11-12 @Jacksonville St          42  E Kentucky               17           
+2022-11-12 @Montana                  63  E Washington              7           
+2022-11-12 @N Colorado               21  Northern Arizona         20           
+2022-11-12 @St Thomas MN             23  Stetson                   0           
+2022-11-12 @Weber St                 45  Idaho St                  7           
+2022-11-12  Montana St               72 @Cal Poly                 28           
+2022-11-12  UC Davis                 44 @Idaho                    26           
+2022-11-12 @San Diego                31  Davidson                 14           
+2022-11-12  Tennessee Tech           35 @North Alabama            27           
+2022-11-12 @LIU Post                 34  Stonehill                28           
+2022-11-12  McNeese St               21 @Houston Chr              10           
+2022-11-12 @Nicholls St              12  TX A&M Commerce          10           
+2022-11-12  Abilene Chr              45 @Sam Houston St           28           
+2022-11-12 @Southern Utah            55  Lincoln CA                0           
+2022-11-12 @Utah Tech                34  Tarleton St              28           
+2022-11-15  Ohio                     32 @Ball St                  18           
+2022-11-15  Bowling Green            42 @Toledo                   35           
+2022-11-16  W Michigan               12 @C Michigan               10           
+2022-11-16  E Michigan               31 @Kent                     24           
+2022-11-16  Miami OH                 29 @N Illinois               23           
+2022-11-17 @Tulane                   59  SMU                      24           
+2022-11-17  SE Louisiana             40 @Nicholls St              17           
+2022-11-18 @Tulsa                    48  South Florida            42           
+2022-11-18  San Diego St             34 @New Mexico               10           
+2022-11-19 @Appalachian St           27  Old Dominion             14           
+2022-11-19 @Army                     34  Connecticut              17           
+2022-11-19 @Charlotte                26  Louisiana Tech           21           
+2022-11-19 @Clemson                  40  Miami FL                 10           
+2022-11-19  Houston                  42 @East Carolina             3           
+2022-11-19 @Florida St               49  Louisiana                17           
+2022-11-19  Marshall                 23 @Ga Southern              10           
+2022-11-19 @James Madison            42  Georgia St               40           
+2022-11-19  Georgia                  16 @Kentucky                  6           
+2022-11-19  Virginia Tech            23 @Liberty                  22           
+2022-11-19 @Louisville               25  NC State                 10           
+2022-11-19  Ohio St                  43 @Maryland                 30           
+2022-11-19 @Michigan                 19  Illinois                 17           
+2022-11-19  Indiana                  39 @Michigan St              31 O2        
+2022-11-19  Georgia Tech             21 @North Carolina           17           
+2022-11-19 @Notre Dame               44  Boston College            0           
+2022-11-19 @Pittsburgh               28  Duke                     26           
+2022-11-19 @Purdue                   17  Northwestern              9           
+2022-11-19  Penn St                  55 @Rutgers                  10           
+2022-11-19 @South Carolina           63  Tennessee                38           
+2022-11-19  Cincinnati               23 @Temple                    3           
+2022-11-19  Navy                     17 @UCF                      14           
+2022-11-19 @Wake Forest              45  Syracuse                 35           
+2022-11-19  Kansas St                48 @West Virginia            31           
+2022-11-19 @Alabama                  34  Austin Peay               0           
+2022-11-19 @Arkansas                 42  Mississippi              27           
+2022-11-19 @Auburn                   41  WKU                      17           
+2022-11-19  TCU                      29 @Baylor                   28           
+2022-11-19  Texas Tech               14 @Iowa St                  10           
+2022-11-19  Texas                    55 @Kansas                   14           
+2022-11-19 @LSU                      41  UAB                      10           
+2022-11-19 @Memphis                  59  North Alabama             0           
+2022-11-19 @MTSU                     49  FL Atlantic              21           
+2022-11-19  Iowa                     13 @Minnesota                10           
+2022-11-19 @Mississippi St           56  ETSU                      7           
+2022-11-19 @Missouri                 45  New Mexico St            14           
+2022-11-19  Wisconsin                15 @Nebraska                 14           
+2022-11-19 @Oklahoma                 28  Oklahoma St              13           
+2022-11-19  UT San Antonio           41 @Rice                      7           
+2022-11-19  South Alabama            27 @Southern Miss            20           
+2022-11-19 @Texas A&M                20  Massachusetts             3           
+2022-11-19 @Texas St                 16  Arkansas St              13           
+2022-11-19 @Troy                     34  ULM                      16           
+2022-11-19 @Vanderbilt               31  Florida                  24           
+2022-11-19 @Air Force                24  Colorado St              12           
+2022-11-19  Washington St            31 @Arizona                  20           
+2022-11-19  Oregon St                31 @Arizona St                7           
+2022-11-19 @BYU                      52  Utah Tech                26           
+2022-11-19 @UTEP                     40  Florida Intl              6           
+2022-11-19 @Utah St                  35  San Jose St              31           
+2022-11-19  Boise St                 20 @Wyoming                  17           
+2022-11-19 @California               27  Stanford                 20           
+2022-11-19  Fresno St                41 @Nevada                   14           
+2022-11-19 @Oregon                   20  Utah                     17           
+2022-11-19  USC                      48 @UCLA                     45          Victory Bell 
+2022-11-19 @Washington               54  Colorado                  7           
+2022-11-19 @Hawaii                   31  UNLV                     25           
+2022-11-19  Florida A&M              41  Bethune-Cookman          20           Orlando FL
+2022-11-19 @Bucknell                 24  Marist                   13           
+2022-11-19  St Thomas MN             27 @Butler                   13           
+2022-11-19 @Columbia                 45  Cornell                  22           
+2022-11-19 @Dartmouth                30  Brown                     7           
+2022-11-19  Campbell                 34 @Delaware St               7           
+2022-11-19 @Duquesne                 33  Wagner                    0           
+2022-11-19 @E Kentucky               45  Kennesaw                 38           
+2022-11-19 @Furman                   63  Wofford                  28           
+2022-11-19  Holy Cross               47 @Georgetown               10           
+2022-11-19  Yale                     19 @Harvard                  14           
+2022-11-19  Missouri St              24 @Indiana St                7           
+2022-11-19  New Hampshire            42 @Maine                    41 O3        
+2022-11-19  St Francis PA            52 @Merrimack                23           
+2022-11-19 @Monmouth NJ              24  Stony Brook              21           
+2022-11-19  San Diego                14 @Morehead St               9           
+2022-11-19  Howard                   35 @Morgan St                 6           
+2022-11-19  Penn                     20 @Princeton                19           
+2022-11-19 @Rhode Island             35  SUNY Albany              21           
+2022-11-19  William & Mary           37 @Richmond                 26           
+2022-11-19  Bryant                   35 @Robert Morris             6           
+2022-11-19  LIU Post                 37 @Sacred Heart             34           
+2022-11-19  Norfolk St               42 @S Carolina St            38           
+2022-11-19 @Towson                   27  Hampton                   7           
+2022-11-19  Citadel                  26 @VMI                      22           
+2022-11-19 @Villanova                29  Delaware                 26           
+2022-11-19 @W Carolina               32  Chattanooga              29           
+2022-11-19 @Youngstown St            28  S Illinois               21           
+2022-11-19 @Lafayette                14  Lehigh                   11           
+2022-11-19  SF Austin                24 @Abilene Chr              21           
+2022-11-19  Jackson St               24 @Alcorn St                13           
+2022-11-19  Jacksonville St          40 @Cent Arkansas            17           
+2022-11-19 @Davidson                 24  Dayton                   23           
+2022-11-19 @Fordham                  52  Colgate                  38           
+2022-11-19 @Illinois St              20  W Illinois               13 O1        
+2022-11-19 @N Dakota St              42  North Dakota             21           
+2022-11-19 @Samford                  50  Mercer                   44 O2        
+2022-11-19  Northern Iowa            58 @South Dakota             14           
+2022-11-19 @SE Missouri St           52  Murray St                22           
+2022-11-19 @Stetson                  42  Presbyterian             21           
+2022-11-19 @Tarleton St              49  Houston Chr               7           
+2022-11-19  NC Central               22 @Tennessee Tech           20           
+2022-11-19  Tennessee St             22 @TX A&M Commerce          14           
+2022-11-19 @TN Martin                34  E Illinois               31           
+2022-11-19  Drake                    24 @Valparaiso                0           
+2022-11-19 @Gardner Webb             38  NC A&T                   17           
+2022-11-19 @Alabama A&M              24  TX Southern              20           
+2022-11-19  Idaho                    38 @Idaho St                  7           
+2022-11-19 @MS Valley St             27  Prairie View              7           
+2022-11-19 @Montana St               55  Montana                  21           
+2022-11-19  Weber St                 33 @Northern Arizona         31           
+2022-11-19 @Cal Poly                 49  Portland St              42           
+2022-11-19 @E Washington             45  N Colorado               21           
+2022-11-19 @CS Sacramento            27  UC Davis                 21           
+2022-11-19  Central Conn             39 @Stonehill                14           
+2022-11-19 @McNeese St               24  Lamar                    20           
+2022-11-19  Incarnate Word           66 @Northwestern LA           7           
+2022-11-19  Southern Utah            17 @Sam Houston St            7           
+2022-11-22 @Miami OH                 18  Ball St                  17           
+2022-11-22 @Ohio                     38  Bowling Green            14           
+2022-11-24  Mississippi St           24 @Mississippi              22          Egg Bowl 
+2022-11-24  Ark Pine Bluff           19 @Alabama St               14           
+2022-11-25 @E Michigan               38  C Michigan               19           
+2022-11-25 @Florida St               45  Florida                  38           
+2022-11-25  NC State                 30 @North Carolina           27 O2        
+2022-11-25 @W Michigan               20  Toledo                   14           
+2022-11-25  Nebraska                 24 @Iowa                     17           
+2022-11-25 @Arizona                  38  Arizona St               35           
+2022-11-25  UCLA                     35 @California               28           
+2022-11-25  Tulane                   27 @Cincinnati               24           
+2022-11-25 @Missouri                 29  Arkansas                 27           
+2022-11-25 @Texas                    38  Baylor                   27           
+2022-11-25 @Boise St                 42  Utah St                  23           
+2022-11-25 @Colorado St              17  New Mexico                0           
+2022-11-25 @Fresno St                30  Wyoming                   0           
+2022-11-26 @Oregon St                38  Oregon                   34          Civil War 
+2022-11-26  Syracuse                 32 @Boston College           23           
+2022-11-26  Kent                     30 @Buffalo                  27 O1        
+2022-11-26  South Carolina           31 @Clemson                  30          Palmetto Bowl 
+2022-11-26 @Duke                     34  Wake Forest              31           
+2022-11-26  MTSU                     33 @Florida Intl             28           
+2022-11-26  WKU                      32 @FL Atlantic              31 O1        
+2022-11-26 @Georgia                  37  Georgia Tech             14           
+2022-11-26 @Ga Southern              51  Appalachian St           48 O2        
+2022-11-26  Purdue                   30 @Indiana                  16           
+2022-11-26 @James Madison            47  Coastal Car               7           
+2022-11-26 @Kentucky                 26  Louisville               13          Governor's Cup 
+2022-11-26  New Mexico St            49 @Liberty                  14           
+2022-11-26 @Marshall                 28  Georgia St               23           
+2022-11-26 @Maryland                 37  Rutgers                   0           
+2022-11-26  Army                     44 @Massachusetts             7           
+2022-11-26  Pittsburgh               42 @Miami FL                 16           
+2022-11-26  Michigan                 45 @Ohio St                  23           
+2022-11-26 @Penn St                  35  Michigan St              16           
+2022-11-26  UCF                      46 @South Florida            39           
+2022-11-26  East Carolina            49 @Temple                   46           
+2022-11-26 @Alabama                  49  Auburn                   27          Iron Bowl 
+2022-11-26  Troy                     48 @Arkansas St              19           
+2022-11-26  Tulsa                    37 @Houston                  30           
+2022-11-26 @Kansas St                47  Kansas                   27           
+2022-11-26  UAB                      37 @Louisiana Tech           27           
+2022-11-26  Southern Miss            20 @ULM                      10           
+2022-11-26 @North Texas              21  Rice                     17           
+2022-11-26  Akron                    44 @N Illinois               12           
+2022-11-26  Illinois                 41 @Northwestern              3           
+2022-11-26  West Virginia            24 @Oklahoma St              19           
+2022-11-26 @SMU                      34  Memphis                  31           
+2022-11-26 @South Alabama            27  Old Dominion             20           
+2022-11-26 @TCU                      62  Iowa St                  14           
+2022-11-26 @Texas A&M                38  LSU                      23           
+2022-11-26  Louisiana                41 @Texas St                 13           
+2022-11-26 @Texas Tech               51  Oklahoma                 48 O1        
+2022-11-26 @UT San Antonio           34  UTEP                     31           
+2022-11-26  Tennessee                56 @Vanderbilt                0           
+2022-11-26  Minnesota                23 @Wisconsin                16          Paul Bunyan's Axe 
+2022-11-26  Utah                     63 @Colorado                 21           
+2022-11-26  Air Force                13 @San Diego St              3           
+2022-11-26 @San Jose St              27  Hawaii                   14           
+2022-11-26  BYU                      35 @Stanford                 26           
+2022-11-26 @UNLV                     27  Nevada                   22           
+2022-11-26 @USC                      38  Notre Dame               27           
+2022-11-26  Washington               51 @Washington St            33          Apple Cup 
+2022-11-26  Southern Univ            34  Grambling                17           New Orleans LA
+2022-11-26 @Furman                   31  Elon                      6 P         
+2022-11-26 @Delaware                 56  St Francis PA            17 P         
+2022-11-26 @New Hampshire            52  Fordham                  42 P         
+2022-11-26 @Richmond                 41  Davidson                  0 P         
+2022-11-26 @Weber St                 38  North Dakota             31 P         
+2022-11-26  Gardner Webb             52 @E Kentucky               41 P         
+2022-11-26 @SE Louisiana             45  Idaho                    42 P         
+2022-11-26 @Montana                  34  SE Missouri St           24 P         
+2022-12-02 @UT San Antonio           48  North Texas              27 P        CUSA Championship 
+2022-12-02 @Buffalo                  23  Akron                    22           
+2022-12-02  Utah                     47  USC                      24 P        Pac 12 Championship Las Vegas NV
+2022-12-03  Clemson                  39  North Carolina           10 P        ACC Championship Charlotte NC
+2022-12-03  Toledo                   17  Ohio                      7 P        MAC Championship Detroit MI
+2022-12-03 @Troy                     45  Coastal Car              26 P        Sun Belt Championship 
+2022-12-03  Fresno St                28 @Boise St                 16 P        MWC Championship 
+2022-12-03  Georgia                  50  LSU                      30 P        SEC Championship Atlanta GA
+2022-12-03  Michigan                 43  Purdue                   22 P        Big 10 Championship Indianapolis IN
+2022-12-03 @Holy Cross               35  New Hampshire            19 P         
+2022-12-03 @William & Mary           54  Gardner Webb             14 P         
+2022-12-03 @Incarnate Word           41  Furman                   38 P         
+2022-12-03 @S Dakota St              42  Delaware                  6 P         
+2022-12-03 @Montana St               33  Weber St                 25 P         
+2022-12-03 @Samford                  48  SE Louisiana             42 PO1       
+2022-12-03 @N Dakota St              49  Montana                  26 P         
+2022-12-03 @CS Sacramento            38  Richmond                 31 P         
+2022-12-03  Kansas St                31  TCU                      28 PO1      Big 12 Championship Arlington TX
+2022-12-03 @Tulane                   45  UCF                      28 P        AAC Championship 
+2022-12-03 @Jackson St               43  Southern Univ            24 P        SWAC Championship Jackson, MS
+2022-12-03 @New Mexico St            65  Valparaiso                3           
+2022-12-09  Samford                   0 @N Dakota St               0 SchP      
+2022-12-09  William & Mary            0 @Montana St                0 SchP      
+2022-12-09  Incarnate Word            0 @CS Sacramento             0 SchP      
+2022-12-10  Army                      0  Navy                      0 Sch       Philadelphia PA
+2022-12-10  Holy Cross                0 @S Dakota St               0 SchP      
+2022-12-16  UAB                       0  Miami OH                  0 Sch       
+2022-12-16  UT San Antonio            0  Troy                      0 Sch       
+2022-12-17  Jackson St                0  NC Central                0 SchP     Celebration Bowl Atlanta, GA
+2022-12-17  Cincinnati                0  Louisville                0 Sch       
+2022-12-17  BYU                       0  SMU                       0 Sch       
+2022-12-17  Fresno St                 0  Washington St             0 Sch       
+2022-12-17  Rice                      0  Southern Miss             0 Sch       
+2022-12-17  Florida                   0  Oregon St                 0 Sch       
+2022-12-17  Boise St                  0  North Texas               0 Sch       
+2022-12-19  Connecticut               0  Marshall                  0 Sch       
+2022-12-20  E Michigan                0  San Jose St               0 Sch       
+2022-12-20  Liberty                   0  Toledo                    0 Sch       
+2022-12-21  South Alabama             0  WKU                       0 Sch       
+2022-12-22  Air Force                 0  Baylor                    0 Sch       
+2022-12-23  Houston                   0  Louisiana                 0 Sch       
+2022-12-23  Missouri                  0  Wake Forest               0 Sch       
+2022-12-24  MTSU                      0  San Diego St              0 Sch       
+2022-12-26  Bowling Green             0  New Mexico St             0 Sch       
+2022-12-27  Buffalo                   0  Ga Southern               0 Sch       
+2022-12-27  Memphis                   0  Utah St                   0 Sch       
+2022-12-27  Coastal Car               0  East Carolina             0 Sch       
+2022-12-27  Oklahoma St               0  Wisconsin                 0 Sch       
+2022-12-28  UCF                       0  Duke                      0 Sch       
+2022-12-28  Arkansas                  0  Kansas                    0 Sch       
+2022-12-28  North Carolina            0  Oregon                    0 Sch       
+2022-12-28  Mississippi               0  Texas Tech                0 Sch       
+2022-12-29  Texas                     0  Washington                0 Sch       
+2022-12-29  Minnesota                 0  Syracuse                  0 Sch       
+2022-12-29  Florida St                0  Oklahoma                  0 Sch       
+2022-12-30  Ohio                      0  Wyoming                   0 Sch       
+2022-12-30  Clemson                   0  Tennessee                 0 Sch       
+2022-12-30  Maryland                  0  NC State                  0 Sch       
+2022-12-30  Pittsburgh                0  UCLA                      0 Sch       
+2022-12-30  Notre Dame                0  South Carolina            0 Sch       
+2022-12-31  Alabama                   0  Kansas St                 0 Sch       
+2022-12-31  Michigan                  0  TCU                       0 SchP     Fiesta Bowl, CFP Semi Glendale AZ
+2022-12-31  Georgia                   0  Ohio St                   0 SchP     Peach Bowl, CFP Semi Atlanta GA
+2022-12-31  Iowa                      0  Kentucky                  0 Sch       
+2023-01-02  Tulane                    0  USC                       0 Sch       
+2023-01-02  LSU                       0  Purdue                    0 Sch       
+2023-01-02  Penn St                   0  Utah                      0 Sch       
+2023-01-02  Illinois                  0  Mississippi St            0 Sch

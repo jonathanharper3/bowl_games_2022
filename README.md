@@ -9,3 +9,5 @@ that matches data from these matchups with expert analyses to further inform the
 
 The 2022/23 iteration of this model performed subpar, only correctly predicting 60% of the bowl games played. Further steps we can take to improve this
 prediction can be found on the last slide of the included ppt presentation.
+
+Written by Jonathan Harper
